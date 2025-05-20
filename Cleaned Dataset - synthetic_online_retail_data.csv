@@ -1,0 +1,1001 @@
+customer_id,order_date,product_id,category_id,category_name,product_name,quantity,amount,payment_method,city,review_score,gender,age,order_id
+13542,17-12-2024,784,10,electronics,smartphone,2,373.36,Credit Card,New Oliviaberg,1,F,56,ORD1
+23188,01-06-2024,682,50,sports & outdoors,soccer ball,5,299.34,Credit Card,Port Matthew,NULL,M,59,ORD2
+55098,04-02-2025,684,50,sports & outdoors,tent,5,23,Credit Card,West Sarah,5,F,64,ORD3
+65208,28-10-2024,204,40,books & stationery,story book,2,230.11,Bank Transfer,Hernandezburgh,5,M,34,ORD4
+63872,10-05-2024,202,20,fashion,skirt,4,176.72,Credit Card,Jenkinshaven,1,F,33,ORD5
+29989,03-12-2024,829,10,electronics,smartphone,4,196.16,Bank Transfer,East Tonyaberg,5,F,21,ORD6
+79809,07-06-2024,706,10,electronics,tablet,5,272.75,Bank Transfer,North Jessicabury,NULL,M,57,ORD7
+27282,15-07-2024,405,50,sports & outdoors,yoga mat,2,292.9,Cash on Delivery,Aliciaberg,NULL,F,60,ORD8
+41394,17-12-2024,549,30,home & living,pillow,3,429.11,Credit Card,West Larrymouth,3,F,69,ORD9
+48695,12-04-2024,545,30,home & living,blanket,4,191.39,Credit Card,Lake Ian,5,F,34,ORD10
+27389,31-01-2025,549,10,electronics,smartwatch,2,321.14,Cash on Delivery,Elizabethmouth,5,M,26,ORD11
+74067,27-06-2024,773,40,books & stationery,notebook,3,494.87,Cash on Delivery,Melanieberg,5,M,37,ORD12
+49331,21-05-2024,526,30,home & living,pillow,5,122.23,Credit Card,Allisonland,5,M,32,ORD13
+61360,03-12-2024,544,10,electronics,laptop,3,457.44,Cash on Delivery,Myershaven,5,M,60,ORD14
+24426,07-02-2025,943,40,books & stationery,pen,2,443.49,Cash on Delivery,South Tonya,4,M,67,ORD15
+10486,13-09-2024,297,20,fashion,shirt,2,274.1,Cash on Delivery,Port Allisonfort,4,F,54,ORD16
+75474,22-05-2024,107,40,books & stationery,notebook,1,117.47,Credit Card,Levyport,4,M,73,ORD17
+79898,19-03-2024,871,10,electronics,smartphone,5,84.89,Credit Card,Fullerland,5,M,68,ORD18
+41736,28-10-2024,457,10,electronics,tablet,4,196.99,Bank Transfer,North Anthony,4,NULL,72,ORD19
+69719,24-12-2024,941,10,electronics,smartphone,2,344.04,Cash on Delivery,North Whitneytown,5,F,29,ORD20
+93992,05-12-2024,853,30,home & living,pillow,1,153.82,Credit Card,West Cynthiaton,4,NULL,29,ORD21
+65011,20-02-2025,938,30,home & living,carpet,4,383.36,Cash on Delivery,East Christopher,5,F,42,ORD22
+80441,26-07-2024,867,30,home & living,carpet,2,308.4,Credit Card,Port Danielleview,3,M,52,ORD23
+95874,30-12-2024,424,50,sports & outdoors,soccer ball,3,303.48,Bank Transfer,East Christopherborough,NULL,NULL,48,ORD24
+11145,09-04-2024,461,30,home & living,blanket,1,38.38,Cash on Delivery,Douglasport,5,M,34,ORD25
+81289,18-07-2024,485,40,books & stationery,novel,1,489.21,Cash on Delivery,North Jamesside,5,M,60,ORD26
+36732,12-01-2025,704,40,books & stationery,eraser,3,90.91,Cash on Delivery,North Carrie,5,M,42,ORD27
+33678,01-04-2024,732,20,fashion,shirt,1,380.08,Cash on Delivery,Port Kenneth,1,M,29,ORD28
+71289,11-01-2025,815,30,home & living,vase,1,450.81,Bank Transfer,East Kylie,NULL,M,50,ORD29
+86746,24-03-2024,768,30,home & living,pillow,3,298.27,Credit Card,Mendezburgh,4,M,62,ORD30
+23094,17-01-2025,658,10,electronics,laptop,2,43.03,Credit Card,Kristenland,5,M,56,ORD31
+30037,05-08-2024,314,20,fashion,dress,5,337.8,Credit Card,Lake Sarah,4,F,28,ORD32
+61642,24-11-2024,264,50,sports & outdoors,tent,1,241.61,Bank Transfer,Fryeberg,5,M,19,ORD33
+52189,01-09-2024,653,10,electronics,tablet,1,183.61,Bank Transfer,Lake Michael,4,F,49,ORD34
+71248,01-07-2024,289,10,electronics,smartphone,5,207.28,Bank Transfer,North Mary,5,M,42,ORD35
+14872,31-03-2024,353,20,fashion,pants,2,272.78,Credit Card,Cynthiaport,4,M,32,ORD36
+46992,13-05-2024,824,20,fashion,t-shirt,2,227.13,Cash on Delivery,East Corytown,NULL,F,30,ORD37
+21565,13-08-2024,499,50,sports & outdoors,soccer ball,4,484.81,Credit Card,Martinezview,NULL,F,43,ORD38
+26160,04-03-2025,374,20,fashion,skirt,2,452.2,Credit Card,North Terrancehaven,3,NULL,25,ORD39
+35007,09-06-2024,355,30,home & living,vase,2,149.77,Cash on Delivery,Lake Rhondatown,5,NULL,65,ORD40
+93989,25-04-2024,573,50,sports & outdoors,running shoes,5,85.85,Bank Transfer,Williamston,1,M,70,ORD41
+37401,16-08-2024,861,50,sports & outdoors,soccer ball,1,376.51,Credit Card,Lake Jeffrey,NULL,F,63,ORD42
+82700,30-05-2024,410,50,sports & outdoors,basketball,5,37.87,Cash on Delivery,New Carolfort,NULL,M,55,ORD43
+38245,11-11-2024,615,50,sports & outdoors,soccer ball,4,340.85,Credit Card,Franklinmouth,4,NULL,36,ORD44
+76140,29-06-2024,673,50,sports & outdoors,basketball,2,293.67,Credit Card,New Terri,5,M,65,ORD45
+63313,09-08-2024,182,50,sports & outdoors,tent,5,266.16,Bank Transfer,Jeffreyview,1,F,59,ORD46
+10299,27-11-2024,971,20,fashion,dress,4,203.94,Cash on Delivery,Teresaville,5,F,33,ORD47
+32232,23-09-2024,476,10,electronics,smartphone,1,234.56,Cash on Delivery,Mcdonaldmouth,5,M,55,ORD48
+48690,11-04-2024,161,20,fashion,shirt,3,139.95,Bank Transfer,West Geraldhaven,5,F,18,ORD49
+94108,20-01-2025,837,30,home & living,painting,2,87.3,Cash on Delivery,Bowmanmouth,5,F,72,ORD50
+54503,03-04-2024,416,50,sports & outdoors,soccer ball,2,337.25,Cash on Delivery,Walkerland,2,F,42,ORD51
+69170,30-05-2024,660,20,fashion,dress,4,66.56,Credit Card,Port Patriciashire,5,M,62,ORD52
+68220,15-09-2024,961,30,home & living,carpet,2,113.21,Bank Transfer,Jacobburgh,1,F,50,ORD53
+53004,19-09-2024,309,30,home & living,carpet,5,249.38,Credit Card,New Brittanytown,NULL,M,20,ORD54
+57158,25-07-2024,294,30,home & living,pillow,4,11.74,Credit Card,Woodshaven,5,M,59,ORD55
+15676,22-04-2024,649,40,books & stationery,eraser,3,355.78,Cash on Delivery,Rachelland,NULL,M,72,ORD56
+34358,16-01-2025,945,20,fashion,shirt,1,27.65,Bank Transfer,Gonzalezshire,4,M,50,ORD57
+83983,01-08-2024,395,20,fashion,t-shirt,5,161.05,Credit Card,Blakeshire,5,M,55,ORD58
+56955,14-07-2024,922,20,fashion,t-shirt,1,183.3,Cash on Delivery,Whitakerview,5,M,24,ORD59
+73293,30-04-2024,799,50,sports & outdoors,basketball,1,463.62,Credit Card,Port Thomaston,5,NULL,72,ORD60
+68416,15-12-2024,311,20,fashion,skirt,5,22.15,Cash on Delivery,New Jeremy,5,F,44,ORD61
+51031,25-05-2024,216,40,books & stationery,story book,4,140.73,Cash on Delivery,Lake Nancy,NULL,F,50,ORD62
+49701,21-04-2024,684,40,books & stationery,story book,1,107.79,Bank Transfer,Lake Jasmineport,3,F,63,ORD63
+32080,13-05-2024,354,20,fashion,pants,4,21.6,Credit Card,Garrisonberg,3,M,18,ORD64
+13112,15-12-2024,202,10,electronics,headphones,2,182.06,Cash on Delivery,South Katherineside,3,NULL,35,ORD65
+27303,25-05-2024,119,50,sports & outdoors,yoga mat,1,470.23,Credit Card,Mccallhaven,5,M,26,ORD66
+89064,10-11-2024,533,50,sports & outdoors,yoga mat,3,28.75,Cash on Delivery,Lake Teresafurt,4,F,74,ORD67
+76490,17-12-2024,362,30,home & living,vase,5,307.04,Cash on Delivery,Roymouth,NULL,F,48,ORD68
+45081,05-02-2025,721,20,fashion,dress,4,31.75,Bank Transfer,East Charles,NULL,NULL,55,ORD69
+65624,26-03-2024,732,50,sports & outdoors,basketball,2,188.47,Credit Card,West Krista,5,NULL,63,ORD70
+94700,15-06-2024,675,50,sports & outdoors,yoga mat,3,335.06,Credit Card,Hobbston,5,M,23,ORD71
+73009,27-03-2024,569,30,home & living,vase,4,169.83,Cash on Delivery,Jacobfurt,2,M,29,ORD72
+55865,26-03-2024,915,40,books & stationery,pen,1,341.89,Credit Card,New Felicia,5,M,64,ORD73
+75453,22-06-2024,260,50,sports & outdoors,soccer ball,3,158.9,Credit Card,Spencerside,4,F,33,ORD74
+47548,31-01-2025,381,30,home & living,vase,2,226.48,Cash on Delivery,West Jacob,1,F,36,ORD75
+85352,04-07-2024,755,20,fashion,t-shirt,5,149.06,Cash on Delivery,East Ana,5,M,38,ORD76
+99624,29-06-2024,624,20,fashion,dress,4,120.07,Credit Card,West Louis,NULL,M,20,ORD77
+53811,21-09-2024,551,40,books & stationery,eraser,5,426.37,Credit Card,Port Cristianfort,4,F,52,ORD78
+59944,06-02-2025,293,50,sports & outdoors,basketball,2,361.99,Bank Transfer,Lake Charlestown,4,M,51,ORD79
+20770,01-11-2024,941,10,electronics,smartphone,2,391.43,Credit Card,Moranland,NULL,NULL,44,ORD80
+95322,14-03-2025,621,50,sports & outdoors,running shoes,2,34.61,Credit Card,Marcusville,5,M,43,ORD81
+44293,26-10-2024,212,20,fashion,skirt,4,337.11,Cash on Delivery,West Sandrachester,4,NULL,72,ORD82
+11849,14-08-2024,141,40,books & stationery,eraser,5,409.35,Cash on Delivery,South Scott,4,NULL,23,ORD83
+79537,18-10-2024,858,40,books & stationery,story book,5,374.39,Bank Transfer,Anthonyborough,4,F,30,ORD84
+22604,08-02-2025,351,30,home & living,carpet,1,247.45,Credit Card,East Russellville,2,M,47,ORD85
+36231,18-05-2024,606,30,home & living,blanket,5,143.14,Bank Transfer,Port Richardfurt,5,M,72,ORD86
+64684,16-11-2024,166,20,fashion,pants,1,197.69,Credit Card,New Brooke,5,M,53,ORD87
+64326,15-08-2024,348,40,books & stationery,notebook,5,275.88,Bank Transfer,Rachelburgh,NULL,F,63,ORD88
+82168,23-01-2025,653,40,books & stationery,eraser,2,473.57,Credit Card,West Matthewton,5,F,44,ORD89
+63919,23-04-2024,209,40,books & stationery,pen,3,12.89,Bank Transfer,Jeffreyville,2,M,54,ORD90
+54901,04-06-2024,491,40,books & stationery,eraser,3,376.28,Cash on Delivery,Stacieberg,5,F,23,ORD91
+97350,06-03-2025,770,40,books & stationery,story book,4,143.74,Bank Transfer,West Kathleen,NULL,M,70,ORD92
+45435,06-07-2024,349,40,books & stationery,story book,3,421.85,Credit Card,Port Hectorbury,5,F,25,ORD93
+92572,29-06-2024,634,40,books & stationery,eraser,4,286.55,Credit Card,East David,NULL,M,60,ORD94
+10539,17-03-2025,142,40,books & stationery,story book,1,34.64,Bank Transfer,Anthonyport,3,F,44,ORD95
+94316,14-06-2024,979,30,home & living,vase,1,146.35,Bank Transfer,Garzachester,2,M,18,ORD96
+64578,01-07-2024,650,10,electronics,smartwatch,1,35.52,Bank Transfer,Lake Kristy,1,M,54,ORD97
+77823,27-09-2024,994,10,electronics,smartphone,5,475.31,Credit Card,South Roger,5,F,34,ORD98
+67215,02-12-2024,912,20,fashion,pants,1,242.04,Credit Card,Codyburgh,4,M,71,ORD99
+50937,05-11-2024,101,30,home & living,painting,1,92.22,Cash on Delivery,Stevensonside,5,F,46,ORD100
+66782,04-07-2024,865,20,fashion,dress,2,62.97,Credit Card,Hardingfort,5,F,48,ORD101
+72081,25-07-2024,563,40,books & stationery,pen,3,471.32,Credit Card,Trevinoland,NULL,F,63,ORD102
+58706,07-02-2025,613,20,fashion,t-shirt,4,351.62,Bank Transfer,Lake Cody,5,F,65,ORD103
+61717,31-08-2024,705,10,electronics,smartwatch,2,393.49,Bank Transfer,East Alyssa,4,F,57,ORD104
+48366,12-10-2024,292,10,electronics,smartwatch,3,327.3,Credit Card,Moraleshaven,5,F,48,ORD105
+26652,24-09-2024,952,10,electronics,tablet,2,480.79,Cash on Delivery,Danielstad,5,F,48,ORD106
+49861,24-11-2024,832,20,fashion,skirt,2,96.31,Cash on Delivery,Brianburgh,5,M,46,ORD107
+70446,02-05-2024,918,50,sports & outdoors,running shoes,5,237.79,Cash on Delivery,Amyhaven,4,M,56,ORD108
+66861,23-02-2025,360,20,fashion,t-shirt,3,146.67,Bank Transfer,Reynoldsborough,1,F,20,ORD109
+33496,24-09-2024,863,50,sports & outdoors,running shoes,5,174.83,Bank Transfer,Port Ginaside,5,M,71,ORD110
+65546,01-04-2024,575,20,fashion,dress,4,400.94,Bank Transfer,Davidton,2,F,65,ORD111
+58032,04-04-2024,133,30,home & living,carpet,4,14.97,Credit Card,Lake Sethfurt,NULL,F,22,ORD112
+52835,11-04-2024,159,40,books & stationery,eraser,2,381.5,Cash on Delivery,North Davidchester,4,F,31,ORD113
+54614,10-12-2024,704,40,books & stationery,novel,1,55.6,Credit Card,Stephanieshire,4,M,61,ORD114
+47601,31-07-2024,793,50,sports & outdoors,yoga mat,2,241.9,Cash on Delivery,South Ashleyshire,3,NULL,24,ORD115
+39945,06-06-2024,273,50,sports & outdoors,yoga mat,5,182.39,Bank Transfer,North Christinaview,2,M,75,ORD116
+44020,23-12-2024,798,10,electronics,laptop,5,164.62,Cash on Delivery,New Michaeltown,4,F,62,ORD117
+89883,25-05-2024,182,20,fashion,pants,5,116.03,Bank Transfer,East Justin,2,F,66,ORD118
+51106,03-03-2025,222,50,sports & outdoors,tent,2,148.67,Credit Card,New Carol,5,M,38,ORD119
+39236,05-06-2024,793,30,home & living,blanket,1,158.11,Cash on Delivery,Osborneland,4,M,47,ORD120
+39267,02-10-2024,399,10,electronics,smartwatch,3,153.15,Credit Card,North Danielburgh,5,F,74,ORD121
+20814,18-12-2024,914,10,electronics,smartphone,4,291.29,Bank Transfer,South Melodystad,4,M,65,ORD122
+62697,19-09-2024,774,10,electronics,headphones,2,471.12,Bank Transfer,Murrayville,NULL,M,25,ORD123
+45453,15-08-2024,363,40,books & stationery,novel,3,292.74,Cash on Delivery,West Michaelton,NULL,M,63,ORD124
+41166,17-04-2024,783,50,sports & outdoors,yoga mat,5,51.74,Credit Card,North Matthew,NULL,F,61,ORD125
+12817,06-06-2024,466,50,sports & outdoors,tent,4,397.46,Credit Card,North Angela,5,M,40,ORD126
+86435,30-07-2024,988,40,books & stationery,notebook,4,431.48,Bank Transfer,Christopherport,3,F,48,ORD127
+16539,10-04-2024,334,50,sports & outdoors,soccer ball,3,474.32,Credit Card,Kathleenton,5,M,21,ORD128
+32285,23-08-2024,978,10,electronics,laptop,1,127.53,Cash on Delivery,West Danielborough,NULL,M,43,ORD129
+73165,29-12-2024,237,40,books & stationery,eraser,2,240.26,Credit Card,Mariaborough,1,F,48,ORD130
+28298,07-06-2024,555,40,books & stationery,novel,3,346.82,Bank Transfer,Port Denisemouth,5,F,18,ORD131
+77934,16-01-2025,695,20,fashion,skirt,1,66.24,Credit Card,Holmesland,5,NULL,27,ORD132
+42115,09-11-2024,135,20,fashion,t-shirt,4,39.22,Bank Transfer,North Johnland,4,F,55,ORD133
+10254,10-09-2024,318,30,home & living,vase,1,70.93,Cash on Delivery,Port Christine,3,M,73,ORD134
+39027,26-12-2024,757,30,home & living,carpet,1,274.59,Bank Transfer,Russellton,NULL,M,23,ORD135
+30197,09-07-2024,386,40,books & stationery,notebook,1,305.82,Credit Card,Port George,NULL,NULL,39,ORD136
+83687,26-08-2024,115,50,sports & outdoors,tent,5,475.89,Cash on Delivery,Melanieborough,5,F,52,ORD137
+88015,20-05-2024,285,20,fashion,skirt,4,264.29,Bank Transfer,Kathleenview,5,M,62,ORD138
+84063,20-01-2025,744,50,sports & outdoors,running shoes,5,321.04,Bank Transfer,Scottfort,5,F,43,ORD139
+50447,21-10-2024,910,40,books & stationery,notebook,3,167.32,Credit Card,Kathyton,5,M,22,ORD140
+29786,10-09-2024,749,40,books & stationery,notebook,3,334.67,Bank Transfer,South Brianstad,5,F,23,ORD141
+79948,14-08-2024,858,40,books & stationery,novel,2,164.11,Bank Transfer,South Caroline,NULL,F,66,ORD142
+68238,17-03-2025,261,50,sports & outdoors,soccer ball,3,332.25,Cash on Delivery,New Brandon,4,M,68,ORD143
+66682,04-02-2025,632,50,sports & outdoors,yoga mat,1,315.09,Bank Transfer,Cartermouth,5,F,42,ORD144
+47971,06-04-2024,363,20,fashion,dress,5,279.12,Bank Transfer,East Dawn,4,F,47,ORD145
+54869,29-03-2024,369,10,electronics,smartphone,4,486.84,Cash on Delivery,Martinburgh,5,F,42,ORD146
+28063,03-05-2024,398,30,home & living,carpet,5,16.7,Bank Transfer,Robertsbury,NULL,NULL,26,ORD147
+99909,11-08-2024,233,10,electronics,tablet,1,474.06,Cash on Delivery,Sheltonmouth,5,F,37,ORD148
+77523,28-01-2025,543,30,home & living,carpet,5,355.65,Bank Transfer,Danielfurt,5,NULL,21,ORD149
+60807,07-01-2025,798,20,fashion,skirt,1,280.12,Bank Transfer,East Andrea,NULL,F,39,ORD150
+77884,05-12-2024,620,20,fashion,t-shirt,3,145.36,Bank Transfer,Shortmouth,3,F,41,ORD151
+76854,14-09-2024,845,30,home & living,pillow,2,148.59,Bank Transfer,Andrewmouth,5,F,64,ORD152
+35603,15-08-2024,177,40,books & stationery,story book,4,228.81,Bank Transfer,Lake Brent,3,F,68,ORD153
+14361,12-12-2024,178,50,sports & outdoors,running shoes,4,233.12,Bank Transfer,Robertbury,5,NULL,23,ORD154
+99182,19-12-2024,395,20,fashion,shirt,3,197.66,Bank Transfer,Garciahaven,NULL,F,23,ORD155
+57585,07-01-2025,394,40,books & stationery,pen,4,494.32,Cash on Delivery,Lauraburgh,5,F,50,ORD156
+75434,03-12-2024,775,10,electronics,laptop,3,256.12,Cash on Delivery,Craigmouth,3,M,21,ORD157
+49651,08-04-2024,937,40,books & stationery,novel,4,267.72,Bank Transfer,West Elizabethbury,NULL,M,19,ORD158
+80835,26-12-2024,114,20,fashion,t-shirt,3,240.05,Bank Transfer,Lake Carla,3,F,40,ORD159
+46326,15-12-2024,625,10,electronics,headphones,4,427.65,Cash on Delivery,Andersonchester,3,M,31,ORD160
+11108,26-06-2024,575,40,books & stationery,eraser,2,27.59,Credit Card,South Jeffrey,1,F,58,ORD161
+82916,24-08-2024,180,30,home & living,blanket,1,375.92,Bank Transfer,New Alicia,5,F,73,ORD162
+37787,02-08-2024,971,10,electronics,tablet,3,91.52,Bank Transfer,West Mariaton,5,M,35,ORD163
+43043,27-02-2025,203,10,electronics,headphones,5,185.65,Bank Transfer,East Justintown,NULL,F,24,ORD164
+74956,14-12-2024,204,50,sports & outdoors,basketball,5,93.29,Credit Card,Kristenberg,5,M,58,ORD165
+62833,05-04-2024,955,20,fashion,skirt,1,457.29,Credit Card,East Matthew,1,F,71,ORD166
+93806,17-05-2024,606,40,books & stationery,notebook,4,336.75,Bank Transfer,Donaldhaven,5,F,37,ORD167
+12572,22-01-2025,656,20,fashion,t-shirt,4,226.45,Bank Transfer,North Zacharytown,5,M,46,ORD168
+87787,13-05-2024,836,40,books & stationery,notebook,2,233.85,Bank Transfer,East Daniel,NULL,M,67,ORD169
+77178,17-09-2024,167,40,books & stationery,novel,5,126.23,Cash on Delivery,Lake Ryanland,3,M,61,ORD170
+70476,13-10-2024,883,30,home & living,pillow,1,489.19,Cash on Delivery,West Amandamouth,3,M,32,ORD171
+66492,21-02-2025,112,10,electronics,smartwatch,4,375.13,Bank Transfer,Port Thomas,5,M,30,ORD172
+62824,25-12-2024,629,30,home & living,blanket,5,321.94,Cash on Delivery,Port Jo,2,F,63,ORD173
+85614,13-03-2025,189,20,fashion,t-shirt,5,452.67,Cash on Delivery,Harrisberg,NULL,F,70,ORD174
+89312,30-08-2024,276,10,electronics,smartwatch,3,188.78,Credit Card,Veronicaburgh,NULL,M,31,ORD175
+59644,28-10-2024,139,40,books & stationery,story book,5,108.39,Cash on Delivery,Cynthiaburgh,5,M,61,ORD176
+77706,17-06-2024,111,50,sports & outdoors,yoga mat,2,416.93,Bank Transfer,Edwardstad,5,NULL,33,ORD177
+69355,04-12-2024,683,30,home & living,painting,1,404.07,Bank Transfer,South Susanstad,5,M,18,ORD178
+30464,01-07-2024,563,20,fashion,skirt,2,483.96,Cash on Delivery,Derekside,3,F,25,ORD179
+77850,19-06-2024,633,10,electronics,headphones,4,272.92,Bank Transfer,Lake Sharonstad,3,F,30,ORD180
+96195,25-09-2024,975,30,home & living,carpet,4,196.7,Cash on Delivery,Port Matthew,5,M,27,ORD181
+17277,21-10-2024,157,20,fashion,skirt,4,22.26,Cash on Delivery,Lake Michaelhaven,3,F,70,ORD182
+48665,14-05-2024,620,10,electronics,tablet,2,455.6,Bank Transfer,South Huntermouth,5,M,65,ORD183
+55003,13-11-2024,910,10,electronics,smartphone,4,159.14,Bank Transfer,Englishmouth,NULL,M,74,ORD184
+98322,08-04-2024,157,50,sports & outdoors,basketball,1,200.44,Bank Transfer,North Alexis,5,F,60,ORD185
+46001,14-10-2024,661,50,sports & outdoors,running shoes,1,297.8,Cash on Delivery,Hayesshire,NULL,M,40,ORD186
+56829,04-08-2024,839,10,electronics,tablet,1,311.67,Bank Transfer,West Justinburgh,NULL,M,59,ORD187
+15545,08-12-2024,128,40,books & stationery,pen,2,475.77,Bank Transfer,Johnsonborough,NULL,F,65,ORD188
+21109,17-07-2024,719,50,sports & outdoors,yoga mat,3,39.67,Bank Transfer,Sellersland,NULL,M,37,ORD189
+59875,02-08-2024,210,40,books & stationery,novel,4,334.76,Cash on Delivery,Sherylfort,5,NULL,49,ORD190
+71005,26-09-2024,203,10,electronics,headphones,3,129.35,Credit Card,Grahamhaven,5,M,28,ORD191
+77455,29-06-2024,845,50,sports & outdoors,basketball,3,297.33,Credit Card,Joshuamouth,3,M,64,ORD192
+16285,30-10-2024,579,50,sports & outdoors,soccer ball,4,145.86,Credit Card,Savannahmouth,5,F,59,ORD193
+20485,07-06-2024,602,20,fashion,t-shirt,4,333.92,Credit Card,Gregoryview,NULL,M,44,ORD194
+56705,12-08-2024,299,20,fashion,shirt,2,168.65,Credit Card,Michellefort,2,M,38,ORD195
+25974,12-02-2025,123,40,books & stationery,eraser,1,65.69,Credit Card,East Marymouth,4,F,71,ORD196
+99133,05-01-2025,928,50,sports & outdoors,tent,1,63.44,Cash on Delivery,Brianfort,1,F,26,ORD197
+60024,21-08-2024,643,50,sports & outdoors,yoga mat,5,234.44,Credit Card,Port Suzannebury,NULL,F,71,ORD198
+53269,09-08-2024,314,40,books & stationery,pen,5,346.19,Bank Transfer,New Amyfurt,5,M,54,ORD199
+23687,03-03-2025,371,10,electronics,headphones,2,308.07,Credit Card,New Peterport,NULL,F,68,ORD200
+16821,18-05-2024,175,50,sports & outdoors,tent,4,358.95,Bank Transfer,Port Jeremyfurt,5,F,68,ORD201
+25702,12-03-2025,423,40,books & stationery,eraser,4,306.66,Credit Card,New Brian,5,M,40,ORD202
+24054,05-11-2024,953,50,sports & outdoors,basketball,3,220.73,Credit Card,Lake Michaelfort,4,F,26,ORD203
+85558,27-04-2024,619,40,books & stationery,pen,3,367.51,Bank Transfer,South Lauramouth,4,F,60,ORD204
+98627,24-01-2025,886,30,home & living,blanket,4,346.54,Bank Transfer,Taylorport,NULL,F,25,ORD205
+32058,27-05-2024,843,10,electronics,tablet,3,57.32,Cash on Delivery,East Christopherfurt,3,M,28,ORD206
+28608,08-04-2024,436,10,electronics,smartwatch,1,478.75,Cash on Delivery,Annaborough,3,M,51,ORD207
+58103,29-01-2025,389,30,home & living,vase,3,435.37,Cash on Delivery,Nicholasfurt,NULL,M,18,ORD208
+25747,18-03-2025,874,30,home & living,painting,4,60.76,Cash on Delivery,Amandaborough,1,F,64,ORD209
+75314,31-05-2024,417,20,fashion,t-shirt,1,181.56,Cash on Delivery,Shawnview,3,F,24,ORD210
+33743,24-12-2024,405,50,sports & outdoors,basketball,3,405.54,Cash on Delivery,New Jonathan,5,F,64,ORD211
+21731,19-08-2024,206,50,sports & outdoors,tent,5,22.86,Cash on Delivery,Lake Annburgh,5,M,34,ORD212
+66977,18-03-2025,568,20,fashion,dress,1,354.32,Bank Transfer,Henryborough,5,M,67,ORD213
+25952,30-12-2024,448,20,fashion,pants,5,287.5,Bank Transfer,Amandafort,NULL,F,73,ORD214
+80882,27-02-2025,511,10,electronics,smartphone,3,375.59,Credit Card,Mitchellfort,3,F,32,ORD215
+27123,27-12-2024,144,20,fashion,dress,3,162.7,Bank Transfer,Saunderston,5,F,18,ORD216
+60144,23-01-2025,287,10,electronics,smartphone,4,86.23,Cash on Delivery,Marshallside,NULL,M,65,ORD217
+85940,15-07-2024,722,40,books & stationery,pen,1,247.97,Bank Transfer,East Kimberlyshire,4,M,37,ORD218
+53860,14-05-2024,490,50,sports & outdoors,soccer ball,2,179.13,Credit Card,West Thomas,2,F,62,ORD219
+32569,06-02-2025,336,40,books & stationery,eraser,2,336.89,Credit Card,Port Catherine,1,NULL,26,ORD220
+72236,05-07-2024,959,10,electronics,smartphone,5,110.17,Credit Card,Lake Jessefort,5,F,47,ORD221
+79004,14-05-2024,190,30,home & living,painting,4,68.79,Bank Transfer,Sarahtown,5,M,50,ORD222
+39329,28-08-2024,218,40,books & stationery,eraser,2,354.8,Cash on Delivery,Jessicastad,4,F,59,ORD223
+53191,21-11-2024,852,30,home & living,pillow,4,204.56,Cash on Delivery,Jenniferberg,NULL,M,30,ORD224
+44035,10-08-2024,974,10,electronics,headphones,4,292.12,Cash on Delivery,Cassandraville,4,F,39,ORD225
+16865,06-01-2025,991,30,home & living,pillow,3,208.47,Bank Transfer,Port Stephanie,NULL,NULL,39,ORD226
+68850,07-02-2025,484,40,books & stationery,notebook,1,53.18,Credit Card,North Elizabethbury,1,F,58,ORD227
+64425,19-12-2024,780,50,sports & outdoors,soccer ball,5,203.93,Bank Transfer,New Ronniebury,5,M,22,ORD228
+52324,20-09-2024,932,20,fashion,t-shirt,2,260.14,Credit Card,New Patriciaville,4,M,64,ORD229
+11008,23-07-2024,981,30,home & living,painting,2,366.42,Cash on Delivery,Lake Emilymouth,5,M,58,ORD230
+47725,12-09-2024,320,20,fashion,dress,3,106.66,Cash on Delivery,Bradleyview,NULL,F,36,ORD231
+18819,16-06-2024,775,10,electronics,laptop,4,476.13,Cash on Delivery,Wesleyborough,4,F,70,ORD232
+95354,13-07-2024,394,50,sports & outdoors,running shoes,2,343.76,Cash on Delivery,Shawberg,5,NULL,30,ORD233
+48878,07-09-2024,814,30,home & living,painting,2,83.97,Credit Card,Kellymouth,4,F,75,ORD234
+44704,25-02-2025,911,30,home & living,carpet,4,37.52,Cash on Delivery,Mccannfurt,NULL,F,62,ORD235
+88424,06-06-2024,535,10,electronics,smartphone,2,190.68,Bank Transfer,West Timothy,NULL,F,44,ORD236
+73269,03-01-2025,748,10,electronics,smartwatch,2,301.1,Bank Transfer,Conniebury,4,F,24,ORD237
+38565,28-10-2024,884,10,electronics,tablet,5,455.43,Cash on Delivery,Nicoletown,5,M,50,ORD238
+33851,13-11-2024,713,40,books & stationery,eraser,5,83.92,Credit Card,Mcdanielchester,4,F,48,ORD239
+76010,24-09-2024,248,30,home & living,pillow,1,257.23,Credit Card,Stevenfurt,NULL,F,51,ORD240
+75278,03-03-2025,538,40,books & stationery,eraser,3,266.15,Credit Card,Javierview,3,NULL,59,ORD241
+51458,27-01-2025,400,40,books & stationery,pen,1,389.49,Cash on Delivery,Mcintyreburgh,4,F,19,ORD242
+21004,17-04-2024,843,30,home & living,pillow,5,171.55,Cash on Delivery,Lake Catherine,5,M,30,ORD243
+50813,29-01-2025,481,50,sports & outdoors,basketball,4,173.35,Cash on Delivery,East Hannah,5,NULL,70,ORD244
+51301,07-01-2025,398,30,home & living,vase,5,73.19,Cash on Delivery,Henrystad,5,M,43,ORD245
+23601,12-08-2024,468,40,books & stationery,notebook,3,408.46,Cash on Delivery,East William,5,NULL,57,ORD246
+12469,24-06-2024,816,50,sports & outdoors,soccer ball,3,326.55,Bank Transfer,Riveraview,4,M,35,ORD247
+77150,10-10-2024,371,30,home & living,blanket,4,476.07,Bank Transfer,Anthonyside,5,F,69,ORD248
+11829,10-05-2024,651,20,fashion,pants,5,85.92,Bank Transfer,Brendaton,5,M,41,ORD249
+44470,20-03-2024,188,50,sports & outdoors,tent,5,28.5,Bank Transfer,Lake Triciaburgh,5,F,61,ORD250
+94532,06-11-2024,335,50,sports & outdoors,running shoes,4,85.58,Credit Card,Port Lisa,5,F,41,ORD251
+55184,09-06-2024,151,20,fashion,skirt,5,31.41,Bank Transfer,Port Edward,5,M,23,ORD252
+51963,04-08-2024,471,40,books & stationery,eraser,3,149.61,Cash on Delivery,Lake Rachaelside,5,M,61,ORD253
+56464,23-09-2024,361,20,fashion,dress,1,483.14,Bank Transfer,Jonathanport,5,M,44,ORD254
+58911,03-07-2024,489,50,sports & outdoors,running shoes,1,236.22,Bank Transfer,Ashleyfort,5,F,72,ORD255
+92232,28-03-2024,961,40,books & stationery,story book,4,410.28,Cash on Delivery,Adamsfort,NULL,M,33,ORD256
+67837,02-02-2025,671,40,books & stationery,notebook,1,281.72,Credit Card,West Amyhaven,5,F,39,ORD257
+23747,15-08-2024,558,10,electronics,headphones,1,51.1,Credit Card,Tammymouth,2,NULL,36,ORD258
+22228,08-02-2025,789,20,fashion,skirt,1,54.94,Credit Card,Barryton,5,F,62,ORD259
+89639,17-07-2024,124,10,electronics,tablet,4,36.1,Cash on Delivery,Pierceport,3,M,25,ORD260
+10848,26-05-2024,281,10,electronics,headphones,5,120.02,Bank Transfer,Vickimouth,5,F,67,ORD261
+39860,11-03-2025,967,30,home & living,blanket,1,77.42,Bank Transfer,Port Josephview,5,F,53,ORD262
+38512,09-03-2025,976,20,fashion,skirt,5,229.81,Credit Card,Huntershire,5,M,34,ORD263
+73069,01-08-2024,171,20,fashion,pants,2,278.91,Cash on Delivery,Valerieview,5,M,38,ORD264
+25229,09-10-2024,644,30,home & living,blanket,2,157.56,Credit Card,Anthonybury,1,F,27,ORD265
+32206,13-10-2024,400,50,sports & outdoors,running shoes,4,40.78,Bank Transfer,North Juliaborough,4,M,28,ORD266
+47231,12-11-2024,802,50,sports & outdoors,tent,2,128.55,Credit Card,Port Elizabeth,2,M,23,ORD267
+97281,07-12-2024,450,30,home & living,blanket,4,289.63,Credit Card,Ramirezton,5,M,32,ORD268
+30321,11-12-2024,665,30,home & living,pillow,3,477.17,Cash on Delivery,Alvaradoview,4,NULL,59,ORD269
+43115,28-12-2024,144,50,sports & outdoors,soccer ball,3,201.32,Bank Transfer,New Joshua,NULL,M,65,ORD270
+12858,16-06-2024,957,30,home & living,painting,3,376.19,Bank Transfer,Port Briana,5,M,28,ORD271
+56081,09-03-2025,502,10,electronics,smartwatch,5,370.24,Bank Transfer,Kennethton,NULL,M,38,ORD272
+54630,05-02-2025,967,30,home & living,blanket,4,416.89,Cash on Delivery,Port Steve,4,F,64,ORD273
+99272,26-04-2024,847,20,fashion,pants,3,40.92,Bank Transfer,South Becky,NULL,M,66,ORD274
+99923,28-12-2024,145,20,fashion,t-shirt,3,164.64,Bank Transfer,Port Thomasstad,4,NULL,66,ORD275
+29197,26-06-2024,491,50,sports & outdoors,running shoes,5,134.12,Cash on Delivery,Lake Anne,NULL,M,49,ORD276
+91976,19-01-2025,321,10,electronics,headphones,2,143.88,Bank Transfer,Fernandezside,4,M,74,ORD277
+69112,12-06-2024,234,40,books & stationery,pen,2,176.13,Credit Card,North Heatherborough,4,F,29,ORD278
+41492,02-07-2024,631,50,sports & outdoors,yoga mat,2,402.56,Cash on Delivery,Kathrynton,4,M,74,ORD279
+72727,26-12-2024,773,20,fashion,shirt,3,153.95,Credit Card,Brownland,NULL,F,42,ORD280
+35088,14-08-2024,157,30,home & living,vase,5,305.28,Bank Transfer,Port Michelle,NULL,M,50,ORD281
+67667,14-11-2024,854,40,books & stationery,novel,3,366.14,Bank Transfer,Ericville,5,M,37,ORD282
+42238,24-07-2024,756,10,electronics,smartphone,4,338.88,Bank Transfer,Lake Sara,3,F,55,ORD283
+25852,04-02-2025,544,20,fashion,t-shirt,3,79.96,Cash on Delivery,Jamesside,5,M,21,ORD284
+79864,07-04-2024,825,20,fashion,t-shirt,5,125.64,Cash on Delivery,Jennifermouth,3,M,36,ORD285
+17044,28-03-2024,502,50,sports & outdoors,soccer ball,1,306.5,Cash on Delivery,New Mindymouth,4,M,47,ORD286
+96947,27-01-2025,148,40,books & stationery,novel,5,291.22,Cash on Delivery,Jonesport,3,M,35,ORD287
+63024,24-12-2024,990,30,home & living,blanket,3,480.65,Credit Card,Kimberlymouth,5,F,73,ORD288
+38096,30-05-2024,826,40,books & stationery,eraser,1,67.7,Bank Transfer,Georgeville,5,M,58,ORD289
+50848,27-08-2024,721,50,sports & outdoors,yoga mat,4,350.05,Bank Transfer,Michaelside,1,M,65,ORD290
+37762,07-03-2025,442,10,electronics,tablet,1,94.6,Cash on Delivery,New Steven,4,M,32,ORD291
+70317,20-08-2024,151,30,home & living,painting,1,357.67,Cash on Delivery,Elliottfort,4,F,27,ORD292
+88802,12-11-2024,452,20,fashion,pants,2,398.91,Cash on Delivery,Sandrafurt,1,NULL,56,ORD293
+86646,20-09-2024,279,20,fashion,pants,2,397.28,Credit Card,New Kelly,3,F,55,ORD294
+84845,15-05-2024,614,40,books & stationery,eraser,4,73.59,Credit Card,Mejiahaven,NULL,M,71,ORD295
+29895,17-04-2024,150,40,books & stationery,eraser,3,211.29,Bank Transfer,Ramirezmouth,5,M,47,ORD296
+48604,30-03-2024,899,30,home & living,pillow,5,230.49,Cash on Delivery,Port Sandra,4,M,36,ORD297
+54625,21-01-2025,539,50,sports & outdoors,tent,3,99.16,Credit Card,West Tyler,4,NULL,70,ORD298
+10403,03-05-2024,643,10,electronics,smartphone,5,263.87,Bank Transfer,Lake Kimberlyburgh,NULL,M,65,ORD299
+46059,27-01-2025,266,20,fashion,dress,4,474.27,Cash on Delivery,Lake Tracy,5,F,40,ORD300
+82793,01-01-2025,261,30,home & living,blanket,4,321.18,Cash on Delivery,Ravenland,2,F,49,ORD301
+90952,05-09-2024,360,50,sports & outdoors,tent,2,55.78,Cash on Delivery,Rachelborough,NULL,NULL,60,ORD302
+91742,11-08-2024,632,20,fashion,pants,1,332.78,Cash on Delivery,Brandichester,5,M,28,ORD303
+44592,17-08-2024,909,50,sports & outdoors,soccer ball,2,414.37,Credit Card,Laurenmouth,NULL,NULL,66,ORD304
+53649,22-12-2024,742,50,sports & outdoors,yoga mat,1,329.05,Cash on Delivery,Rebeccahaven,4,F,56,ORD305
+45831,07-02-2025,685,40,books & stationery,eraser,1,151.94,Bank Transfer,Sanchezside,4,F,74,ORD306
+80435,05-07-2024,681,40,books & stationery,notebook,1,232.24,Cash on Delivery,Kennethfort,NULL,M,41,ORD307
+14447,20-03-2024,761,40,books & stationery,pen,2,109.97,Cash on Delivery,Peterston,NULL,F,69,ORD308
+32331,23-01-2025,241,30,home & living,painting,2,487.93,Credit Card,Mitchellhaven,5,F,61,ORD309
+72286,07-02-2025,702,10,electronics,headphones,5,128.45,Credit Card,Robinhaven,2,M,58,ORD310
+78768,03-08-2024,880,10,electronics,smartphone,1,152.2,Bank Transfer,Cantumouth,5,M,49,ORD311
+26392,28-01-2025,282,20,fashion,dress,1,467.54,Cash on Delivery,Port Wandashire,3,F,73,ORD312
+16669,25-05-2024,360,40,books & stationery,eraser,3,238.74,Bank Transfer,Nancytown,4,M,34,ORD313
+29275,23-11-2024,180,40,books & stationery,eraser,4,234.04,Credit Card,Port Tracystad,1,M,68,ORD314
+69068,07-09-2024,220,10,electronics,headphones,5,252.5,Cash on Delivery,West Tamiville,5,M,71,ORD315
+37813,02-08-2024,792,10,electronics,smartphone,5,221.15,Bank Transfer,Phillipsborough,5,F,24,ORD316
+48519,22-09-2024,954,30,home & living,pillow,4,206.28,Cash on Delivery,Lewisburgh,4,M,67,ORD317
+29305,24-07-2024,596,30,home & living,pillow,3,199.31,Bank Transfer,Port Taraburgh,5,M,23,ORD318
+81394,17-12-2024,110,50,sports & outdoors,tent,3,68.22,Credit Card,Cameronstad,3,F,52,ORD319
+26545,08-05-2024,985,30,home & living,carpet,2,470.08,Credit Card,Millerhaven,NULL,F,54,ORD320
+98794,09-07-2024,993,50,sports & outdoors,soccer ball,2,32.2,Credit Card,East Alexandriashire,5,F,57,ORD321
+87690,08-04-2024,775,50,sports & outdoors,running shoes,5,82.98,Cash on Delivery,East Kristen,NULL,NULL,41,ORD322
+52213,21-02-2025,648,30,home & living,blanket,1,202.55,Cash on Delivery,Lake Joseph,5,M,57,ORD323
+49232,03-07-2024,172,30,home & living,carpet,1,415.86,Cash on Delivery,Joshuaton,4,F,53,ORD324
+79470,12-03-2025,247,40,books & stationery,novel,2,190.5,Cash on Delivery,Paulborough,NULL,M,41,ORD325
+20522,07-11-2024,380,30,home & living,pillow,2,302.49,Bank Transfer,Toddmouth,5,F,31,ORD326
+56073,02-05-2024,440,50,sports & outdoors,tent,4,121.5,Credit Card,Lake Jennifer,4,M,57,ORD327
+41063,21-07-2024,890,50,sports & outdoors,running shoes,5,82.41,Cash on Delivery,South Jerry,1,F,27,ORD328
+62699,11-04-2024,722,10,electronics,laptop,4,19.28,Bank Transfer,Michaelchester,4,M,36,ORD329
+25889,24-09-2024,507,20,fashion,skirt,4,255.89,Cash on Delivery,West Kristinehaven,5,F,51,ORD330
+71237,05-09-2024,588,10,electronics,laptop,4,264.15,Cash on Delivery,Brentbury,3,F,57,ORD331
+34740,04-07-2024,111,50,sports & outdoors,running shoes,3,163.74,Credit Card,Port Jackview,4,F,44,ORD332
+37821,12-07-2024,855,50,sports & outdoors,yoga mat,2,341.18,Cash on Delivery,Port Robertchester,5,F,37,ORD333
+43279,30-03-2024,403,30,home & living,carpet,4,247.25,Credit Card,Anthonyville,2,M,26,ORD334
+54459,22-05-2024,676,30,home & living,painting,5,355.4,Cash on Delivery,Michellebury,5,M,35,ORD335
+71713,03-10-2024,819,30,home & living,carpet,3,467.51,Cash on Delivery,Floydchester,2,M,50,ORD336
+55426,08-12-2024,139,50,sports & outdoors,running shoes,5,448.92,Bank Transfer,East Josestad,5,NULL,69,ORD337
+79928,16-12-2024,246,20,fashion,dress,3,30.61,Cash on Delivery,East Chris,NULL,NULL,50,ORD338
+52566,24-01-2025,799,30,home & living,vase,4,114.85,Cash on Delivery,West Jessica,2,F,31,ORD339
+49956,17-01-2025,675,30,home & living,blanket,5,63.52,Cash on Delivery,Audreystad,4,M,24,ORD340
+79476,20-09-2024,880,50,sports & outdoors,basketball,4,322.59,Credit Card,North Cristianview,NULL,M,25,ORD341
+52052,27-10-2024,247,40,books & stationery,novel,3,343.78,Credit Card,North Benjaminton,NULL,F,20,ORD342
+45326,15-08-2024,714,20,fashion,skirt,2,329.92,Bank Transfer,Lake Joanna,4,M,41,ORD343
+38806,14-07-2024,665,30,home & living,painting,3,149.85,Credit Card,Lake Brentfurt,5,M,62,ORD344
+46244,23-07-2024,263,50,sports & outdoors,basketball,5,272.22,Cash on Delivery,Lake Ellen,5,M,62,ORD345
+39858,29-08-2024,339,20,fashion,skirt,5,442.3,Credit Card,West Jimmystad,5,M,19,ORD346
+51679,29-03-2024,861,40,books & stationery,pen,4,101.29,Cash on Delivery,Williamsfort,5,NULL,32,ORD347
+10201,14-10-2024,455,10,electronics,smartphone,4,156.21,Cash on Delivery,Leeborough,NULL,NULL,23,ORD348
+98074,03-08-2024,463,30,home & living,vase,4,494.66,Cash on Delivery,East Jason,4,F,47,ORD349
+82077,14-09-2024,889,20,fashion,shirt,1,239.33,Credit Card,Brandyborough,5,M,37,ORD350
+20351,30-05-2024,627,40,books & stationery,notebook,5,362.11,Credit Card,North Dana,5,F,62,ORD351
+24734,05-03-2025,674,50,sports & outdoors,basketball,2,95.99,Cash on Delivery,Monicaland,5,F,39,ORD352
+87219,06-05-2024,234,50,sports & outdoors,yoga mat,1,52.5,Cash on Delivery,Sanchezborough,NULL,NULL,25,ORD353
+20393,28-02-2025,133,40,books & stationery,notebook,5,468.55,Credit Card,South Elizabethport,2,M,68,ORD354
+84575,02-11-2024,922,30,home & living,painting,4,157.95,Cash on Delivery,Perezmouth,4,M,68,ORD355
+38523,20-06-2024,383,30,home & living,blanket,3,40.44,Credit Card,Rodgersfurt,4,M,60,ORD356
+90933,21-06-2024,799,50,sports & outdoors,yoga mat,3,348.24,Cash on Delivery,North Erikbury,5,M,65,ORD357
+53977,17-12-2024,125,50,sports & outdoors,basketball,1,117.37,Credit Card,South Taylorchester,4,F,43,ORD358
+50771,16-05-2024,472,50,sports & outdoors,yoga mat,4,213.76,Cash on Delivery,Garciaville,5,F,24,ORD359
+21473,19-10-2024,369,20,fashion,pants,2,343.37,Cash on Delivery,Aprilton,5,M,56,ORD360
+93130,11-07-2024,233,40,books & stationery,eraser,2,354.85,Credit Card,Eddiefurt,5,M,38,ORD361
+85009,23-01-2025,260,50,sports & outdoors,tent,4,109.06,Cash on Delivery,Janetfort,NULL,M,21,ORD362
+53070,19-11-2024,503,50,sports & outdoors,running shoes,5,66.96,Credit Card,Jefferyshire,5,F,68,ORD363
+36125,06-06-2024,521,50,sports & outdoors,running shoes,5,406.26,Bank Transfer,Rossview,NULL,M,30,ORD364
+76563,31-10-2024,108,50,sports & outdoors,soccer ball,2,283.81,Cash on Delivery,Moniquemouth,5,F,59,ORD365
+35219,03-01-2025,739,40,books & stationery,notebook,4,410.06,Cash on Delivery,East Lucas,1,M,21,ORD366
+39825,28-03-2024,301,40,books & stationery,notebook,5,353.19,Cash on Delivery,New Isaacmouth,5,NULL,50,ORD367
+32037,07-11-2024,897,10,electronics,tablet,5,25.55,Bank Transfer,South Holly,NULL,M,42,ORD368
+13595,02-08-2024,311,40,books & stationery,notebook,1,496.5,Bank Transfer,East Andrew,4,NULL,25,ORD369
+58789,01-07-2024,318,40,books & stationery,pen,4,49.32,Cash on Delivery,Lauraberg,5,M,72,ORD370
+80473,21-10-2024,317,30,home & living,pillow,2,97.45,Cash on Delivery,Lake Brittanyburgh,3,M,44,ORD371
+15625,31-12-2024,852,20,fashion,t-shirt,4,380.53,Bank Transfer,Williamsfort,4,F,45,ORD372
+71490,23-04-2024,364,40,books & stationery,eraser,1,195.85,Credit Card,Robertton,1,M,45,ORD373
+66073,30-01-2025,983,30,home & living,blanket,2,469.33,Cash on Delivery,Andersonview,5,M,40,ORD374
+49765,21-04-2024,389,40,books & stationery,eraser,3,385.37,Credit Card,Jensenstad,1,M,35,ORD375
+83207,27-05-2024,530,50,sports & outdoors,soccer ball,5,228.76,Cash on Delivery,New Edwardville,5,M,56,ORD376
+55540,06-10-2024,424,10,electronics,tablet,4,225.09,Cash on Delivery,Villanuevaburgh,1,F,23,ORD377
+15824,25-12-2024,119,10,electronics,laptop,2,256.91,Bank Transfer,Vincenttown,1,NULL,58,ORD378
+96162,12-09-2024,887,50,sports & outdoors,yoga mat,5,292.96,Cash on Delivery,South Jeffreystad,5,M,34,ORD379
+19293,20-06-2024,633,20,fashion,shirt,1,118.31,Bank Transfer,Clayfort,2,F,33,ORD380
+37972,07-10-2024,603,50,sports & outdoors,basketball,4,316.74,Bank Transfer,Colemouth,4,M,53,ORD381
+11911,21-02-2025,572,30,home & living,vase,3,395.04,Bank Transfer,Lake Tiffanyfurt,5,M,44,ORD382
+66566,28-07-2024,794,30,home & living,vase,5,100.1,Cash on Delivery,Michaelstad,4,F,19,ORD383
+63722,24-06-2024,614,30,home & living,blanket,1,404.83,Credit Card,East Carlos,4,NULL,36,ORD384
+28186,17-05-2024,889,50,sports & outdoors,tent,1,75.71,Credit Card,Port Christopherbury,2,M,41,ORD385
+14303,14-08-2024,332,10,electronics,tablet,5,425.1,Credit Card,Bakerburgh,4,F,51,ORD386
+49509,18-08-2024,508,10,electronics,headphones,1,194.81,Cash on Delivery,Phelpsstad,5,F,58,ORD387
+24078,29-11-2024,344,20,fashion,shirt,5,364.91,Cash on Delivery,West Jesusville,1,M,71,ORD388
+59338,03-01-2025,937,30,home & living,painting,4,478.94,Credit Card,Josephton,1,M,48,ORD389
+57240,12-12-2024,426,10,electronics,tablet,4,458.08,Cash on Delivery,Jennachester,5,M,61,ORD390
+52736,15-04-2024,175,20,fashion,shirt,2,167.59,Bank Transfer,West Jerome,3,F,49,ORD391
+58283,25-01-2025,787,30,home & living,painting,3,138.17,Cash on Delivery,Colemanchester,5,F,22,ORD392
+84978,05-09-2024,292,40,books & stationery,notebook,1,458.02,Bank Transfer,Payneside,3,M,64,ORD393
+45699,03-02-2025,200,20,fashion,pants,3,17.95,Cash on Delivery,Lake Victoriafort,5,F,26,ORD394
+20938,22-10-2024,478,40,books & stationery,notebook,1,84.68,Bank Transfer,Jordanmouth,1,F,40,ORD395
+31412,17-06-2024,898,20,fashion,skirt,2,279.81,Cash on Delivery,Nguyenfort,3,F,61,ORD396
+23743,14-04-2024,388,40,books & stationery,pen,4,235.81,Cash on Delivery,Fishertown,5,M,43,ORD397
+63051,15-08-2024,525,50,sports & outdoors,running shoes,1,100.18,Cash on Delivery,South Wesley,5,NULL,33,ORD398
+95641,25-05-2024,887,50,sports & outdoors,soccer ball,3,421.14,Credit Card,Kruegerton,5,F,74,ORD399
+93539,25-02-2025,907,10,electronics,tablet,2,77.37,Cash on Delivery,Gregoryville,1,F,43,ORD400
+20636,22-03-2024,707,10,electronics,laptop,2,257.81,Bank Transfer,Parkerfurt,NULL,F,31,ORD401
+68604,07-04-2024,117,50,sports & outdoors,running shoes,2,333.05,Credit Card,North Donna,NULL,F,45,ORD402
+99015,26-10-2024,420,10,electronics,smartphone,5,269.41,Bank Transfer,Lake Paulastad,4,M,66,ORD403
+46587,26-06-2024,715,50,sports & outdoors,running shoes,3,405.02,Credit Card,South Jimmyland,NULL,M,52,ORD404
+17305,26-12-2024,914,20,fashion,pants,5,104.05,Cash on Delivery,Cabrerashire,2,M,28,ORD405
+23570,21-05-2024,721,40,books & stationery,novel,5,192.8,Bank Transfer,Calebmouth,4,M,35,ORD406
+92246,11-02-2025,988,20,fashion,dress,3,345.18,Credit Card,Lewisburgh,5,F,21,ORD407
+75246,27-08-2024,643,10,electronics,smartphone,5,208.59,Bank Transfer,North Jessica,4,M,56,ORD408
+61329,07-12-2024,311,10,electronics,laptop,2,50.52,Bank Transfer,Ashleychester,5,M,74,ORD409
+93329,01-10-2024,775,10,electronics,smartwatch,4,460.38,Credit Card,Johnhaven,1,F,44,ORD410
+26186,27-05-2024,822,50,sports & outdoors,running shoes,3,142.84,Credit Card,Rebeccaborough,5,M,38,ORD411
+18555,06-03-2025,287,50,sports & outdoors,tent,2,332.47,Credit Card,Gutierreztown,5,M,68,ORD412
+57457,11-05-2024,284,20,fashion,shirt,1,80.65,Cash on Delivery,South Shanehaven,5,NULL,37,ORD413
+10825,09-09-2024,693,30,home & living,blanket,1,286.34,Cash on Delivery,Port Marcusmouth,5,M,63,ORD414
+84991,20-11-2024,434,50,sports & outdoors,yoga mat,1,198.08,Cash on Delivery,East Anthonymouth,NULL,NULL,33,ORD415
+17263,10-06-2024,542,10,electronics,smartwatch,5,375.27,Bank Transfer,West Charlestown,NULL,M,47,ORD416
+43226,09-09-2024,221,10,electronics,headphones,1,306.53,Cash on Delivery,North David,5,M,32,ORD417
+84629,24-12-2024,246,30,home & living,pillow,4,320.72,Bank Transfer,Fritzchester,4,M,75,ORD418
+55698,16-03-2025,776,40,books & stationery,pen,4,101.01,Cash on Delivery,Lake Cynthiastad,5,M,48,ORD419
+66122,06-11-2024,280,50,sports & outdoors,yoga mat,1,401.05,Cash on Delivery,Ryanberg,NULL,M,46,ORD420
+24487,01-07-2024,468,40,books & stationery,story book,1,372.43,Bank Transfer,Brooksfort,3,M,38,ORD421
+60664,12-08-2024,809,30,home & living,vase,3,186.36,Bank Transfer,East William,NULL,M,21,ORD422
+46781,03-07-2024,543,40,books & stationery,pen,1,282.92,Cash on Delivery,New Jose,4,M,32,ORD423
+47485,16-01-2025,868,30,home & living,carpet,1,55.6,Cash on Delivery,Tatemouth,5,F,55,ORD424
+80222,25-06-2024,543,10,electronics,headphones,2,212.77,Credit Card,Schroederland,5,F,50,ORD425
+69990,22-04-2024,839,20,fashion,shirt,2,265.34,Cash on Delivery,Ericfurt,3,M,49,ORD426
+89114,14-07-2024,397,30,home & living,painting,3,251.63,Credit Card,New Dylan,NULL,M,40,ORD427
+61935,14-04-2024,484,30,home & living,vase,3,393.51,Bank Transfer,Johnnyton,2,M,68,ORD428
+96674,30-04-2024,674,40,books & stationery,eraser,3,312.17,Bank Transfer,Reedside,NULL,M,21,ORD429
+37431,28-04-2024,736,40,books & stationery,notebook,5,422.39,Bank Transfer,Lake Linda,5,M,26,ORD430
+13425,14-09-2024,852,30,home & living,vase,4,409.58,Cash on Delivery,Port Luke,5,M,46,ORD431
+38547,10-12-2024,486,30,home & living,carpet,3,474.17,Credit Card,West Courtneychester,4,M,61,ORD432
+42068,12-05-2024,529,40,books & stationery,notebook,5,152.81,Cash on Delivery,Rosebury,5,NULL,19,ORD433
+23008,01-11-2024,248,20,fashion,dress,5,194.27,Bank Transfer,Richardshire,3,NULL,53,ORD434
+23420,19-08-2024,508,20,fashion,shirt,4,498.66,Credit Card,Port Adrianhaven,5,F,56,ORD435
+35117,24-02-2025,391,40,books & stationery,story book,5,224.84,Bank Transfer,Davidbury,5,M,60,ORD436
+79582,17-01-2025,388,40,books & stationery,pen,1,78.2,Bank Transfer,Hughesfort,1,F,66,ORD437
+61272,01-05-2024,192,40,books & stationery,pen,3,46.24,Cash on Delivery,North Kathryn,4,M,18,ORD438
+67596,15-02-2025,348,50,sports & outdoors,running shoes,2,276.39,Bank Transfer,Melanieton,5,F,41,ORD439
+60808,08-01-2025,424,50,sports & outdoors,soccer ball,3,63.59,Credit Card,Crawfordport,5,M,19,ORD440
+87513,04-05-2024,782,50,sports & outdoors,soccer ball,2,285.98,Cash on Delivery,Taylorview,5,M,44,ORD441
+30444,24-12-2024,651,30,home & living,vase,4,61.91,Credit Card,Alexanderborough,2,F,38,ORD442
+62506,09-05-2024,560,50,sports & outdoors,tent,1,294.45,Cash on Delivery,Port Kellyview,1,M,65,ORD443
+45719,25-08-2024,329,40,books & stationery,eraser,3,348.31,Credit Card,Townsendville,3,M,26,ORD444
+89715,06-07-2024,941,10,electronics,headphones,1,213.83,Credit Card,South Lauren,NULL,NULL,28,ORD445
+58368,08-12-2024,522,20,fashion,dress,3,162.83,Bank Transfer,Amandamouth,5,F,23,ORD446
+41135,17-08-2024,862,30,home & living,vase,4,57.84,Cash on Delivery,Lake Emily,5,M,23,ORD447
+78277,17-01-2025,157,30,home & living,pillow,4,406.99,Credit Card,Keithland,NULL,M,38,ORD448
+61065,20-04-2024,988,10,electronics,laptop,1,465.66,Cash on Delivery,West Rebekahland,1,M,25,ORD449
+96568,21-03-2024,842,20,fashion,dress,1,284.33,Bank Transfer,Port Melissa,1,M,62,ORD450
+14284,05-06-2024,865,20,fashion,pants,1,323.83,Bank Transfer,North Bradleymouth,3,F,63,ORD451
+90910,17-04-2024,280,20,fashion,skirt,3,300.18,Bank Transfer,Johnnystad,NULL,M,24,ORD452
+42128,13-11-2024,563,30,home & living,pillow,2,292.9,Cash on Delivery,North Rebeccashire,NULL,M,46,ORD453
+58130,17-05-2024,171,40,books & stationery,novel,1,138.55,Bank Transfer,Lake Mallory,4,F,56,ORD454
+40110,03-07-2024,325,50,sports & outdoors,running shoes,5,309.54,Cash on Delivery,North Johnny,NULL,M,27,ORD455
+89076,12-10-2024,967,40,books & stationery,eraser,3,94.54,Cash on Delivery,Wendychester,5,M,69,ORD456
+75860,02-07-2024,370,50,sports & outdoors,tent,3,51.53,Credit Card,Patriciaberg,3,M,63,ORD457
+22360,19-04-2024,766,10,electronics,laptop,3,192.92,Credit Card,Port Maxwell,4,M,68,ORD458
+37265,01-05-2024,162,20,fashion,shirt,3,198.02,Credit Card,Colemanmouth,4,F,37,ORD459
+23672,30-10-2024,158,20,fashion,shirt,2,91.76,Bank Transfer,Aprilshire,NULL,M,49,ORD460
+22599,28-01-2025,888,40,books & stationery,eraser,4,36.27,Bank Transfer,Port Sarahfort,5,F,18,ORD461
+39126,09-08-2024,225,20,fashion,skirt,3,482.28,Cash on Delivery,Port Alexanderton,5,M,24,ORD462
+14108,22-09-2024,820,40,books & stationery,pen,1,357.97,Bank Transfer,Markborough,4,M,55,ORD463
+12544,02-07-2024,958,10,electronics,laptop,3,153.12,Bank Transfer,Webermouth,1,M,28,ORD464
+49580,25-12-2024,828,40,books & stationery,eraser,1,373.83,Bank Transfer,Watsonchester,4,M,30,ORD465
+96065,01-07-2024,297,10,electronics,headphones,2,389.81,Bank Transfer,Hickmanside,4,F,62,ORD466
+97353,20-02-2025,626,40,books & stationery,eraser,2,117.09,Bank Transfer,North Jacobland,NULL,F,31,ORD467
+90540,19-12-2024,259,20,fashion,dress,4,438.66,Credit Card,Port Dawn,4,M,49,ORD468
+33770,10-03-2025,716,10,electronics,tablet,1,433.99,Credit Card,East Frankhaven,5,M,42,ORD469
+82817,13-03-2025,486,50,sports & outdoors,yoga mat,4,431.91,Cash on Delivery,South Michael,5,M,29,ORD470
+27140,17-08-2024,260,20,fashion,pants,1,408.63,Credit Card,New Seth,4,F,21,ORD471
+53754,11-07-2024,190,50,sports & outdoors,tent,1,92.5,Cash on Delivery,East Ericview,2,F,73,ORD472
+81512,23-12-2024,976,50,sports & outdoors,soccer ball,3,76.44,Bank Transfer,East Joshua,5,NULL,49,ORD473
+62597,17-08-2024,828,20,fashion,pants,1,132.34,Cash on Delivery,Ramosport,3,M,54,ORD474
+40338,31-12-2024,310,40,books & stationery,pen,5,79.66,Cash on Delivery,South Matthew,2,M,36,ORD475
+81439,17-11-2024,792,40,books & stationery,novel,2,320.48,Credit Card,Woodsport,4,F,21,ORD476
+59486,29-11-2024,327,30,home & living,vase,5,475.62,Bank Transfer,Brownbury,4,F,61,ORD477
+50145,26-10-2024,554,10,electronics,tablet,3,321.07,Cash on Delivery,Paulton,3,M,34,ORD478
+26849,24-11-2024,667,50,sports & outdoors,running shoes,3,116.74,Bank Transfer,Gardnerberg,5,F,27,ORD479
+99423,30-08-2024,675,30,home & living,painting,5,175.5,Cash on Delivery,Adrianmouth,NULL,F,73,ORD480
+10211,23-07-2024,964,30,home & living,pillow,2,32.51,Cash on Delivery,Lake Michael,5,F,25,ORD481
+47342,30-08-2024,141,10,electronics,laptop,4,226.23,Credit Card,Port Tammyberg,5,M,59,ORD482
+35152,01-03-2025,106,20,fashion,dress,1,87.9,Bank Transfer,Christopherville,NULL,M,64,ORD483
+28742,02-06-2024,184,10,electronics,headphones,5,335.61,Cash on Delivery,Christinaview,NULL,M,34,ORD484
+20004,25-05-2024,137,30,home & living,blanket,3,220.32,Credit Card,Justinport,5,M,49,ORD485
+53575,04-05-2024,622,40,books & stationery,novel,3,75.02,Credit Card,Brownbury,4,M,33,ORD486
+34224,27-01-2025,347,10,electronics,headphones,5,410.38,Bank Transfer,Lynnland,5,F,35,ORD487
+87467,05-10-2024,199,20,fashion,skirt,4,53.77,Credit Card,Judithbury,NULL,M,38,ORD488
+89887,13-05-2024,576,30,home & living,blanket,3,197.53,Credit Card,West Stevenburgh,5,F,32,ORD489
+71870,30-12-2024,522,10,electronics,smartwatch,3,286.01,Cash on Delivery,West Justin,5,M,56,ORD490
+63842,22-06-2024,781,20,fashion,pants,2,460.75,Cash on Delivery,Nguyenmouth,5,F,68,ORD491
+97274,24-02-2025,560,10,electronics,smartphone,3,78.61,Credit Card,East Donna,4,M,55,ORD492
+23807,02-12-2024,547,40,books & stationery,notebook,5,397.63,Credit Card,Jackshire,2,M,53,ORD493
+74278,13-10-2024,225,50,sports & outdoors,tent,1,304,Cash on Delivery,Harrytown,2,NULL,24,ORD494
+27836,09-06-2024,302,10,electronics,headphones,4,110.67,Cash on Delivery,Brownshire,4,F,73,ORD495
+13591,21-04-2024,884,30,home & living,pillow,1,394.06,Credit Card,Cameronside,4,M,18,ORD496
+50980,29-05-2024,688,40,books & stationery,eraser,2,44.8,Credit Card,New Donnatown,5,NULL,27,ORD497
+53270,15-09-2024,848,20,fashion,skirt,1,431.8,Cash on Delivery,South Jessica,4,F,65,ORD498
+47212,28-03-2024,856,20,fashion,skirt,4,477.68,Credit Card,Port Jordan,NULL,M,29,ORD499
+30090,26-03-2024,493,30,home & living,blanket,3,29.52,Credit Card,Joshuamouth,5,M,20,ORD500
+47189,10-05-2024,700,30,home & living,carpet,1,385.88,Bank Transfer,New Amy,5,M,57,ORD501
+92276,11-07-2024,555,50,sports & outdoors,tent,4,311.86,Bank Transfer,West Jesus,NULL,M,63,ORD502
+84661,04-04-2024,129,20,fashion,pants,2,272.83,Bank Transfer,Martineztown,4,F,38,ORD503
+62444,14-10-2024,222,10,electronics,headphones,3,352.35,Cash on Delivery,South Carriefurt,5,M,70,ORD504
+94912,14-11-2024,795,20,fashion,t-shirt,4,463.07,Credit Card,East Robert,4,F,70,ORD505
+90560,26-05-2024,739,30,home & living,blanket,2,68.53,Cash on Delivery,Lake Gabriella,NULL,M,69,ORD506
+50437,20-09-2024,220,40,books & stationery,notebook,2,266.27,Cash on Delivery,Port Jasmin,2,M,34,ORD507
+50139,10-12-2024,905,30,home & living,pillow,4,388,Credit Card,Port Vincenttown,3,M,53,ORD508
+22264,26-03-2024,870,50,sports & outdoors,soccer ball,1,138.85,Cash on Delivery,Danielton,5,F,63,ORD509
+84937,02-05-2024,186,50,sports & outdoors,yoga mat,4,37.17,Cash on Delivery,Montgomeryberg,NULL,M,45,ORD510
+44793,17-05-2024,401,10,electronics,smartwatch,5,340.32,Credit Card,West Michellemouth,1,F,54,ORD511
+11164,20-11-2024,154,10,electronics,smartphone,5,129.83,Bank Transfer,Yatesstad,3,NULL,44,ORD512
+53993,06-03-2025,268,20,fashion,t-shirt,3,280.9,Cash on Delivery,Whiteborough,5,M,47,ORD513
+15858,20-09-2024,626,30,home & living,blanket,2,213.97,Cash on Delivery,Jacobville,3,F,51,ORD514
+20025,21-12-2024,681,50,sports & outdoors,yoga mat,2,68.51,Cash on Delivery,North Debraland,5,M,60,ORD515
+33753,18-08-2024,531,50,sports & outdoors,soccer ball,3,477.5,Credit Card,Lake Bethmouth,5,F,56,ORD516
+54627,18-08-2024,297,30,home & living,painting,1,52.33,Bank Transfer,Taraborough,NULL,M,42,ORD517
+92393,12-03-2025,344,50,sports & outdoors,yoga mat,5,372.39,Credit Card,South Christineberg,4,F,63,ORD518
+25309,24-08-2024,977,40,books & stationery,story book,3,368.91,Cash on Delivery,East Anthony,5,M,52,ORD519
+37422,28-08-2024,444,10,electronics,tablet,5,21.72,Cash on Delivery,Maddenview,3,F,22,ORD520
+99243,25-01-2025,739,10,electronics,headphones,2,10.72,Cash on Delivery,North Diane,3,F,55,ORD521
+26759,30-04-2024,762,30,home & living,pillow,3,110.55,Credit Card,East Loretta,4,NULL,44,ORD522
+77451,20-07-2024,509,20,fashion,dress,3,55.58,Credit Card,Andersonside,5,F,71,ORD523
+41613,21-02-2025,159,30,home & living,vase,5,487.53,Credit Card,Port Melissaborough,4,F,19,ORD524
+20019,04-03-2025,886,40,books & stationery,novel,4,300.03,Credit Card,Jeremyview,4,NULL,34,ORD525
+76799,08-11-2024,691,20,fashion,dress,3,137.89,Bank Transfer,Freemanport,5,M,39,ORD526
+14911,18-01-2025,589,30,home & living,painting,2,231.85,Credit Card,New Madeline,NULL,M,74,ORD527
+42185,24-09-2024,615,50,sports & outdoors,soccer ball,2,86.15,Credit Card,Lake Spencer,4,M,35,ORD528
+36989,22-12-2024,639,10,electronics,smartwatch,3,185.56,Credit Card,Andersonfort,4,F,48,ORD529
+62189,21-02-2025,650,10,electronics,smartphone,3,87.23,Cash on Delivery,Smithfort,3,F,54,ORD530
+51971,09-04-2024,990,50,sports & outdoors,soccer ball,4,115.36,Bank Transfer,Port Johnport,NULL,F,41,ORD531
+42991,24-08-2024,144,30,home & living,vase,1,261.6,Cash on Delivery,Stevensfurt,2,F,44,ORD532
+61358,26-02-2025,439,20,fashion,t-shirt,5,476.53,Bank Transfer,Port Paul,4,F,51,ORD533
+40849,03-01-2025,554,10,electronics,tablet,4,59.93,Credit Card,North Julie,NULL,M,23,ORD534
+65102,10-09-2024,294,20,fashion,pants,1,107.09,Bank Transfer,Port Ryanville,3,F,52,ORD535
+93663,25-04-2024,482,10,electronics,smartwatch,1,297.2,Credit Card,Gonzalesside,NULL,M,53,ORD536
+92929,13-10-2024,716,40,books & stationery,story book,2,55.07,Bank Transfer,Rogersfurt,NULL,NULL,44,ORD537
+17439,12-08-2024,520,10,electronics,laptop,4,462.82,Bank Transfer,Marieborough,5,M,55,ORD538
+25536,07-08-2024,482,10,electronics,tablet,3,344.77,Credit Card,Lake John,3,NULL,43,ORD539
+45637,22-10-2024,961,30,home & living,painting,3,228.55,Credit Card,East Whitney,NULL,F,62,ORD540
+36922,17-10-2024,226,20,fashion,dress,1,254.46,Cash on Delivery,Lake Brittanyberg,4,M,75,ORD541
+48551,14-01-2025,374,40,books & stationery,story book,3,215.43,Cash on Delivery,Deborahview,5,F,69,ORD542
+62183,04-04-2024,568,50,sports & outdoors,soccer ball,2,494.81,Cash on Delivery,Jasontown,3,F,52,ORD543
+96862,28-09-2024,146,40,books & stationery,notebook,5,457.21,Cash on Delivery,Barberside,3,M,29,ORD544
+94597,28-12-2024,241,10,electronics,headphones,2,302.59,Credit Card,Griffintown,5,F,28,ORD545
+44994,14-12-2024,879,10,electronics,tablet,5,269.42,Cash on Delivery,Lake April,5,NULL,42,ORD546
+57366,09-05-2024,267,10,electronics,laptop,2,331.86,Bank Transfer,West Joshuahaven,4,F,32,ORD547
+74049,07-10-2024,354,10,electronics,laptop,5,292.09,Bank Transfer,West Jonathon,3,F,46,ORD548
+14046,19-12-2024,689,20,fashion,pants,4,125.91,Bank Transfer,North Amandaland,5,F,24,ORD549
+54645,30-07-2024,190,50,sports & outdoors,soccer ball,4,354.69,Bank Transfer,Scottmouth,5,F,75,ORD550
+24024,09-05-2024,869,50,sports & outdoors,basketball,5,419.98,Bank Transfer,Shanetown,4,M,55,ORD551
+57449,20-10-2024,247,10,electronics,smartphone,5,37.52,Cash on Delivery,Luketon,1,F,32,ORD552
+87653,28-07-2024,653,10,electronics,headphones,2,459.77,Credit Card,Johnland,5,M,28,ORD553
+76203,03-04-2024,307,20,fashion,dress,5,39.18,Credit Card,Port Jeffrey,4,NULL,61,ORD554
+45679,08-02-2025,470,10,electronics,smartwatch,4,431.73,Credit Card,Gutierrezville,3,NULL,75,ORD555
+83914,12-07-2024,738,40,books & stationery,eraser,2,59.51,Bank Transfer,Holtbury,3,NULL,25,ORD556
+55931,13-09-2024,431,40,books & stationery,pen,2,328.1,Credit Card,East Nicole,5,F,46,ORD557
+68792,09-11-2024,209,50,sports & outdoors,yoga mat,1,119.39,Cash on Delivery,Kevinville,5,M,38,ORD558
+58848,08-08-2024,876,30,home & living,blanket,2,97.08,Credit Card,North Jennifer,5,NULL,36,ORD559
+13992,28-09-2024,375,40,books & stationery,eraser,5,25.87,Cash on Delivery,Karenside,3,F,40,ORD560
+33897,11-06-2024,755,50,sports & outdoors,basketball,1,323.43,Credit Card,Port Joseph,5,M,48,ORD561
+69817,12-12-2024,100,10,electronics,laptop,4,179.94,Bank Transfer,West Jennifer,NULL,F,18,ORD562
+88142,09-11-2024,992,10,electronics,headphones,3,228.85,Bank Transfer,Carlville,1,F,50,ORD563
+43023,13-11-2024,241,30,home & living,painting,5,395.64,Cash on Delivery,Lake Michaelport,NULL,M,44,ORD564
+76411,18-11-2024,576,40,books & stationery,story book,4,443.43,Bank Transfer,Port Tony,5,M,57,ORD565
+53652,14-06-2024,899,40,books & stationery,novel,5,416.12,Cash on Delivery,Johnmouth,5,F,56,ORD566
+23300,05-06-2024,737,20,fashion,skirt,2,46.12,Credit Card,East Mariebury,2,M,66,ORD567
+96041,22-09-2024,595,10,electronics,smartphone,2,177.49,Bank Transfer,Kirbyport,NULL,M,56,ORD568
+33156,16-03-2025,855,10,electronics,headphones,3,301.07,Cash on Delivery,New Danielberg,5,F,60,ORD569
+81896,20-01-2025,105,40,books & stationery,story book,2,307.59,Bank Transfer,New Matthew,NULL,M,21,ORD570
+17483,11-06-2024,205,20,fashion,pants,4,210.55,Cash on Delivery,Lisafurt,5,F,48,ORD571
+56269,25-08-2024,575,30,home & living,painting,5,155.73,Credit Card,Leachstad,NULL,F,57,ORD572
+62764,03-11-2024,901,40,books & stationery,story book,4,36.71,Credit Card,Paulabury,4,M,23,ORD573
+63876,04-09-2024,545,50,sports & outdoors,running shoes,2,107.84,Credit Card,Nicolebury,1,F,53,ORD574
+76057,03-07-2024,560,10,electronics,tablet,4,423.45,Bank Transfer,New Rhondaborough,5,F,52,ORD575
+28381,26-04-2024,973,30,home & living,pillow,1,324.51,Bank Transfer,Loribury,NULL,F,35,ORD576
+62323,04-11-2024,308,30,home & living,blanket,5,228.43,Bank Transfer,New Terrancetown,4,M,26,ORD577
+13120,07-04-2024,893,30,home & living,carpet,1,40.2,Cash on Delivery,New David,5,M,59,ORD578
+78206,17-08-2024,610,30,home & living,carpet,5,212.85,Cash on Delivery,North Jacob,1,M,18,ORD579
+63278,31-05-2024,722,40,books & stationery,eraser,2,215.13,Cash on Delivery,Lake Matthew,5,NULL,53,ORD580
+77729,23-03-2024,744,50,sports & outdoors,basketball,3,243.37,Credit Card,Julieborough,3,F,64,ORD581
+76603,27-02-2025,511,10,electronics,smartwatch,2,289.9,Cash on Delivery,Lake Toddside,5,F,36,ORD582
+61332,01-06-2024,200,50,sports & outdoors,basketball,2,68.94,Bank Transfer,Paulberg,NULL,NULL,39,ORD583
+16119,03-12-2024,628,20,fashion,pants,1,71.83,Bank Transfer,Williamsside,NULL,F,28,ORD584
+91463,27-09-2024,110,20,fashion,pants,5,418.71,Bank Transfer,Johnsonborough,3,F,66,ORD585
+85934,23-03-2024,141,10,electronics,smartphone,2,200.17,Bank Transfer,Edwardview,4,F,60,ORD586
+91509,24-02-2025,113,50,sports & outdoors,running shoes,3,459.41,Credit Card,Robertfort,5,F,43,ORD587
+36278,09-11-2024,246,50,sports & outdoors,running shoes,2,65.13,Credit Card,Reginachester,NULL,F,75,ORD588
+13725,16-06-2024,564,10,electronics,smartphone,4,285.72,Credit Card,Hughesmouth,5,F,26,ORD589
+45232,28-05-2024,140,30,home & living,vase,2,139.43,Cash on Delivery,New Kyle,4,F,67,ORD590
+55539,13-12-2024,614,10,electronics,laptop,5,144.95,Credit Card,Jasonbury,5,F,59,ORD591
+77318,18-02-2025,305,40,books & stationery,novel,2,203.94,Bank Transfer,Brownchester,5,M,23,ORD592
+25761,11-05-2024,657,40,books & stationery,notebook,4,449.55,Credit Card,Port Andre,3,F,29,ORD593
+62981,20-07-2024,200,30,home & living,painting,2,422.99,Cash on Delivery,Wrightport,5,NULL,67,ORD594
+54917,26-12-2024,405,20,fashion,pants,4,157.24,Cash on Delivery,Christopherburgh,4,F,62,ORD595
+73536,12-06-2024,311,30,home & living,vase,5,306.44,Credit Card,Port Ashleyview,NULL,M,61,ORD596
+47349,26-01-2025,517,40,books & stationery,pen,2,382.15,Bank Transfer,Hernandezfort,5,F,47,ORD597
+19284,28-07-2024,944,20,fashion,t-shirt,5,162.45,Cash on Delivery,Phillipsport,4,F,52,ORD598
+60712,09-02-2025,775,50,sports & outdoors,tent,5,24.18,Credit Card,Georgestad,5,M,57,ORD599
+92087,26-03-2024,888,10,electronics,laptop,4,26.2,Credit Card,South Michael,5,F,21,ORD600
+99315,03-10-2024,618,30,home & living,painting,3,413.52,Cash on Delivery,Michelleview,3,NULL,39,ORD601
+10679,23-04-2024,819,10,electronics,laptop,4,192.51,Cash on Delivery,Douglashaven,4,NULL,53,ORD602
+53474,26-09-2024,892,40,books & stationery,eraser,5,280.15,Bank Transfer,Johnburgh,NULL,F,44,ORD603
+47962,13-06-2024,396,10,electronics,headphones,3,23.45,Credit Card,Bryceland,NULL,F,22,ORD604
+39413,01-10-2024,362,20,fashion,pants,2,327.22,Cash on Delivery,Wesleytown,1,F,23,ORD605
+46239,26-01-2025,413,50,sports & outdoors,soccer ball,2,433.67,Cash on Delivery,Landryburgh,NULL,NULL,52,ORD606
+59603,05-09-2024,125,20,fashion,shirt,2,402.42,Credit Card,New Melissa,2,F,28,ORD607
+92950,27-03-2024,265,30,home & living,painting,2,217.67,Bank Transfer,Austinbury,5,F,37,ORD608
+85365,18-12-2024,870,20,fashion,skirt,2,158.05,Cash on Delivery,Andersonshire,5,M,59,ORD609
+17937,17-02-2025,787,10,electronics,smartphone,4,260.64,Cash on Delivery,Joetown,5,F,53,ORD610
+74288,04-08-2024,173,50,sports & outdoors,tent,2,308.43,Bank Transfer,Lake Williamfort,5,F,25,ORD611
+77157,07-01-2025,635,30,home & living,painting,4,323.89,Bank Transfer,Port Pamelatown,2,F,61,ORD612
+87140,02-12-2024,977,30,home & living,blanket,3,83.47,Credit Card,New Joshua,5,F,28,ORD613
+54306,26-09-2024,409,50,sports & outdoors,running shoes,1,333.66,Cash on Delivery,Jacobfort,NULL,M,39,ORD614
+36926,29-03-2024,350,40,books & stationery,notebook,2,137.12,Bank Transfer,Simonfort,4,F,68,ORD615
+74490,26-05-2024,677,50,sports & outdoors,tent,1,409.85,Bank Transfer,Jamesmouth,5,M,65,ORD616
+75854,08-10-2024,783,50,sports & outdoors,running shoes,3,454.2,Cash on Delivery,Timothychester,3,M,19,ORD617
+17341,10-08-2024,291,20,fashion,shirt,5,98.76,Credit Card,Port Timothyshire,4,F,20,ORD618
+35822,22-04-2024,748,50,sports & outdoors,basketball,1,473.99,Bank Transfer,Lake Jason,5,M,57,ORD619
+47566,07-09-2024,574,20,fashion,dress,4,216.03,Bank Transfer,South John,3,F,32,ORD620
+81133,16-11-2024,682,40,books & stationery,novel,1,240.56,Cash on Delivery,East Kristin,4,NULL,33,ORD621
+82756,28-09-2024,597,10,electronics,tablet,3,445.82,Cash on Delivery,Ricemouth,NULL,F,73,ORD622
+14276,14-09-2024,513,50,sports & outdoors,yoga mat,5,212.42,Credit Card,East Stevenmouth,NULL,M,73,ORD623
+48855,05-11-2024,809,40,books & stationery,eraser,1,447.49,Bank Transfer,Watkinsburgh,NULL,F,47,ORD624
+58295,17-07-2024,187,20,fashion,t-shirt,3,248.91,Cash on Delivery,Penningtonberg,5,M,39,ORD625
+24196,06-01-2025,229,10,electronics,smartphone,1,231.51,Credit Card,Timothyland,5,M,41,ORD626
+92507,19-07-2024,170,20,fashion,skirt,1,394.75,Credit Card,Bridgetchester,NULL,M,48,ORD627
+57960,09-04-2024,951,40,books & stationery,pen,1,220.22,Bank Transfer,Connerburgh,3,M,29,ORD628
+34368,31-07-2024,204,20,fashion,dress,3,475.53,Bank Transfer,Kurtmouth,5,F,69,ORD629
+82764,23-04-2024,763,10,electronics,smartphone,1,317.08,Credit Card,Lake Scottfurt,1,F,37,ORD630
+71646,15-09-2024,693,30,home & living,blanket,2,60.33,Cash on Delivery,Hernandezmouth,4,M,48,ORD631
+82989,24-05-2024,892,10,electronics,headphones,1,474.75,Bank Transfer,Port Marvinmouth,5,F,61,ORD632
+91997,21-03-2024,118,30,home & living,vase,4,445.11,Credit Card,South Wanda,3,NULL,47,ORD633
+38807,11-10-2024,756,30,home & living,blanket,4,90.79,Bank Transfer,Curryhaven,NULL,M,63,ORD634
+81959,13-03-2025,433,20,fashion,pants,2,369.7,Cash on Delivery,Martinbury,4,M,19,ORD635
+48904,07-02-2025,931,10,electronics,tablet,3,439.51,Bank Transfer,Raymondland,5,F,63,ORD636
+29007,11-09-2024,951,50,sports & outdoors,soccer ball,4,334.37,Cash on Delivery,Morrisburgh,5,M,24,ORD637
+35793,23-11-2024,427,10,electronics,tablet,2,227.71,Credit Card,South Sharonburgh,4,F,66,ORD638
+56948,28-01-2025,349,20,fashion,pants,3,350.64,Cash on Delivery,Port Christopher,NULL,M,55,ORD639
+65579,07-10-2024,533,10,electronics,smartwatch,1,142.29,Cash on Delivery,Cervantesland,5,M,63,ORD640
+61930,05-04-2024,660,10,electronics,smartwatch,3,362.2,Credit Card,Maxwellhaven,2,F,44,ORD641
+32947,10-01-2025,387,40,books & stationery,story book,2,308.41,Bank Transfer,Morrisonmouth,5,NULL,41,ORD642
+27766,25-09-2024,257,30,home & living,vase,5,154.72,Credit Card,Lake Troyshire,4,NULL,39,ORD643
+21745,23-12-2024,560,40,books & stationery,notebook,5,124.91,Credit Card,Schultzborough,5,NULL,54,ORD644
+77096,30-11-2024,369,50,sports & outdoors,running shoes,4,83.08,Credit Card,Millerborough,5,M,22,ORD645
+99677,15-02-2025,622,10,electronics,headphones,4,325.73,Bank Transfer,Kennethstad,5,M,70,ORD646
+39828,12-02-2025,953,40,books & stationery,novel,3,58.91,Credit Card,Markchester,5,F,75,ORD647
+84736,27-06-2024,624,30,home & living,painting,1,218.74,Credit Card,Denisefurt,NULL,F,68,ORD648
+49782,27-10-2024,911,10,electronics,smartphone,3,427.48,Cash on Delivery,Lake Brianbury,5,M,63,ORD649
+45241,14-10-2024,448,40,books & stationery,eraser,5,141.47,Cash on Delivery,Port Stacey,NULL,F,29,ORD650
+13431,03-01-2025,591,20,fashion,t-shirt,3,206.38,Bank Transfer,Port Jason,2,M,63,ORD651
+91430,08-11-2024,417,40,books & stationery,pen,5,327.93,Credit Card,Tinaport,NULL,F,36,ORD652
+14487,01-11-2024,923,10,electronics,laptop,5,60.82,Cash on Delivery,South Melinda,4,F,56,ORD653
+74218,30-12-2024,631,40,books & stationery,story book,1,309.55,Bank Transfer,New Natalie,5,F,52,ORD654
+37624,08-03-2025,681,20,fashion,skirt,1,461,Credit Card,Dennisburgh,5,M,20,ORD655
+25561,23-11-2024,275,10,electronics,headphones,1,330.94,Credit Card,Port Samanthafort,5,F,31,ORD656
+25091,30-01-2025,766,50,sports & outdoors,tent,5,119.75,Cash on Delivery,Port Laurenfort,5,F,20,ORD657
+65398,18-11-2024,505,50,sports & outdoors,soccer ball,4,222.1,Cash on Delivery,East Codyport,1,M,33,ORD658
+37040,28-07-2024,628,40,books & stationery,story book,3,421.13,Cash on Delivery,Matthewmouth,5,F,41,ORD659
+53928,18-07-2024,624,10,electronics,laptop,5,257.73,Bank Transfer,Butlerton,5,F,35,ORD660
+81400,02-08-2024,950,10,electronics,tablet,4,167.11,Bank Transfer,South Elizabeth,5,M,48,ORD661
+38645,12-02-2025,851,20,fashion,shirt,2,325.23,Bank Transfer,Raymondchester,5,M,27,ORD662
+61294,23-08-2024,645,40,books & stationery,eraser,2,229.57,Bank Transfer,Port Jameston,4,M,38,ORD663
+42912,05-10-2024,811,40,books & stationery,novel,5,60.3,Bank Transfer,Joshuaborough,NULL,F,21,ORD664
+91781,20-03-2024,497,10,electronics,smartwatch,3,481.95,Cash on Delivery,North Thomas,3,F,42,ORD665
+72072,09-02-2025,349,20,fashion,skirt,3,475.67,Bank Transfer,East Annettemouth,5,F,51,ORD666
+89104,07-12-2024,358,40,books & stationery,notebook,3,284.47,Cash on Delivery,Christophertown,4,F,55,ORD667
+25897,22-11-2024,247,30,home & living,vase,5,65.87,Cash on Delivery,Randallburgh,1,M,29,ORD668
+29111,12-11-2024,355,30,home & living,carpet,3,265.77,Cash on Delivery,Brownmouth,NULL,F,18,ORD669
+18651,04-07-2024,121,40,books & stationery,story book,5,412.7,Cash on Delivery,Roychester,5,M,29,ORD670
+36373,25-09-2024,901,50,sports & outdoors,basketball,1,101.9,Bank Transfer,Port Lindaton,1,F,50,ORD671
+63014,12-03-2025,323,20,fashion,dress,3,62.81,Bank Transfer,East David,NULL,F,39,ORD672
+90154,27-07-2024,762,50,sports & outdoors,soccer ball,1,388.35,Bank Transfer,New Amy,4,F,19,ORD673
+81927,04-05-2024,669,50,sports & outdoors,basketball,1,482.29,Credit Card,Dukeborough,4,M,61,ORD674
+50538,02-10-2024,868,40,books & stationery,eraser,2,246.64,Cash on Delivery,North Ryanfort,5,NULL,33,ORD675
+31600,19-02-2025,775,50,sports & outdoors,basketball,2,367.94,Credit Card,Lake Maryborough,NULL,F,32,ORD676
+50200,03-05-2024,841,50,sports & outdoors,yoga mat,2,257.01,Bank Transfer,Lake Jason,4,F,39,ORD677
+16430,23-10-2024,522,20,fashion,dress,2,204.96,Bank Transfer,Rodriguezport,5,F,57,ORD678
+99042,26-05-2024,343,20,fashion,pants,2,212.25,Cash on Delivery,Jamesfort,5,F,69,ORD679
+29306,07-12-2024,162,50,sports & outdoors,yoga mat,3,358.82,Cash on Delivery,Williamsburgh,5,M,41,ORD680
+64799,30-10-2024,950,50,sports & outdoors,yoga mat,4,346.44,Cash on Delivery,East Christopher,NULL,F,71,ORD681
+56589,27-12-2024,969,20,fashion,shirt,1,275.82,Cash on Delivery,Priceburgh,3,M,18,ORD682
+79379,18-10-2024,411,30,home & living,carpet,5,245.38,Cash on Delivery,East William,5,F,54,ORD683
+51171,08-09-2024,608,50,sports & outdoors,yoga mat,1,439.96,Bank Transfer,South Tonya,5,F,19,ORD684
+48362,12-05-2024,186,10,electronics,tablet,1,81.21,Cash on Delivery,Guzmanside,NULL,M,45,ORD685
+86056,27-05-2024,629,20,fashion,dress,2,344.86,Credit Card,Devonmouth,5,F,63,ORD686
+90329,17-08-2024,114,30,home & living,blanket,4,379.26,Credit Card,East Amandaside,3,F,49,ORD687
+52647,16-12-2024,806,50,sports & outdoors,tent,4,433.77,Cash on Delivery,Port Timothy,5,M,43,ORD688
+60295,14-09-2024,636,50,sports & outdoors,yoga mat,2,349.54,Credit Card,Joshuabury,5,M,71,ORD689
+47453,04-08-2024,175,30,home & living,carpet,2,36.36,Cash on Delivery,Alvaradoborough,2,F,58,ORD690
+26742,30-08-2024,349,40,books & stationery,story book,3,456.63,Cash on Delivery,Toddton,5,M,75,ORD691
+31977,01-04-2024,490,50,sports & outdoors,tent,5,371.84,Credit Card,North Marissa,5,NULL,52,ORD692
+18511,07-04-2024,877,30,home & living,vase,4,96.94,Cash on Delivery,West Alicia,NULL,NULL,56,ORD693
+12945,30-09-2024,798,50,sports & outdoors,soccer ball,5,194.83,Bank Transfer,Lake Vincentview,2,M,42,ORD694
+86737,16-01-2025,352,20,fashion,shirt,1,424.55,Credit Card,Port Matthew,3,F,24,ORD695
+67405,13-04-2024,183,20,fashion,t-shirt,2,85.31,Bank Transfer,Morrisport,4,F,43,ORD696
+52751,08-09-2024,399,50,sports & outdoors,yoga mat,3,250.37,Cash on Delivery,Coreyfort,4,M,43,ORD697
+54453,28-01-2025,246,30,home & living,carpet,2,117.78,Credit Card,West Samuelhaven,4,F,19,ORD698
+13011,29-07-2024,231,20,fashion,skirt,2,276.11,Bank Transfer,Lunafort,NULL,M,69,ORD699
+67232,29-05-2024,645,20,fashion,dress,2,172.22,Bank Transfer,Meyerchester,1,F,52,ORD700
+92859,12-09-2024,727,50,sports & outdoors,running shoes,3,498.35,Cash on Delivery,Patriciaville,NULL,F,27,ORD701
+51714,12-07-2024,479,40,books & stationery,story book,3,453.2,Cash on Delivery,Karenstad,5,M,27,ORD702
+79715,22-11-2024,977,10,electronics,headphones,5,196.87,Credit Card,West Crystal,3,F,38,ORD703
+26457,07-10-2024,279,30,home & living,pillow,5,456.55,Bank Transfer,Hawkinschester,4,F,60,ORD704
+36759,16-04-2024,952,40,books & stationery,novel,5,155.25,Cash on Delivery,Michaelfurt,NULL,F,43,ORD705
+59266,14-10-2024,405,10,electronics,laptop,2,486.1,Cash on Delivery,North Michaelborough,4,F,63,ORD706
+18191,11-12-2024,355,20,fashion,pants,2,433.83,Bank Transfer,Port Jasmine,5,M,26,ORD707
+43995,26-04-2024,537,40,books & stationery,novel,4,375.98,Credit Card,South Donna,NULL,F,62,ORD708
+62030,28-05-2024,375,10,electronics,smartphone,2,45.89,Credit Card,West Patriciachester,5,F,64,ORD709
+62120,05-03-2025,501,50,sports & outdoors,basketball,3,456.38,Bank Transfer,East Bryanport,3,F,50,ORD710
+97308,21-05-2024,712,40,books & stationery,notebook,2,18.28,Cash on Delivery,New Melissa,NULL,M,64,ORD711
+86727,10-03-2025,102,50,sports & outdoors,soccer ball,4,380.42,Cash on Delivery,Patriciafort,NULL,F,46,ORD712
+94503,24-09-2024,874,30,home & living,carpet,2,62.01,Cash on Delivery,East Moniquefort,3,M,68,ORD713
+82945,23-05-2024,952,40,books & stationery,pen,2,203.61,Cash on Delivery,Francofort,NULL,M,39,ORD714
+45242,14-01-2025,471,20,fashion,pants,4,375.91,Cash on Delivery,Port Melissaborough,2,F,73,ORD715
+32168,29-09-2024,896,30,home & living,painting,4,479.12,Credit Card,Lesliemouth,4,F,39,ORD716
+43139,06-07-2024,669,10,electronics,smartphone,5,12.46,Cash on Delivery,Veronicaland,3,F,67,ORD717
+88885,13-12-2024,393,10,electronics,headphones,1,112.93,Cash on Delivery,Port Emily,5,M,27,ORD718
+27584,10-01-2025,366,40,books & stationery,eraser,1,79.8,Credit Card,Port Diana,1,F,51,ORD719
+89618,01-03-2025,567,20,fashion,t-shirt,1,98.87,Cash on Delivery,New Michealtown,5,F,42,ORD720
+70242,21-04-2024,732,50,sports & outdoors,running shoes,2,325.89,Credit Card,Garciamouth,2,M,27,ORD721
+11655,05-03-2025,961,10,electronics,laptop,4,365.54,Bank Transfer,Navarrostad,5,M,61,ORD722
+77187,03-05-2024,500,20,fashion,t-shirt,1,149.72,Credit Card,South Edgartown,5,M,40,ORD723
+85139,13-12-2024,844,40,books & stationery,notebook,1,312.01,Bank Transfer,Jackmouth,5,M,57,ORD724
+49769,11-02-2025,295,50,sports & outdoors,yoga mat,5,405.77,Bank Transfer,Garciafurt,NULL,M,26,ORD725
+18860,13-01-2025,860,20,fashion,skirt,1,145.57,Bank Transfer,West Austin,NULL,F,61,ORD726
+48216,12-08-2024,738,40,books & stationery,pen,5,228.23,Bank Transfer,Mendozatown,4,M,21,ORD727
+32522,17-11-2024,638,50,sports & outdoors,soccer ball,4,422.48,Credit Card,Michaelchester,5,M,42,ORD728
+37275,22-07-2024,765,10,electronics,smartphone,1,447.13,Cash on Delivery,East Robert,5,F,57,ORD729
+92654,10-06-2024,693,50,sports & outdoors,running shoes,1,386.91,Credit Card,Wendyborough,5,F,31,ORD730
+60796,01-06-2024,535,50,sports & outdoors,tent,2,241.33,Credit Card,Joshuastad,3,M,73,ORD731
+98151,14-05-2024,707,50,sports & outdoors,yoga mat,2,75.6,Cash on Delivery,West Robertmouth,4,M,45,ORD732
+19327,26-04-2024,454,50,sports & outdoors,soccer ball,3,334.71,Cash on Delivery,Henryborough,5,F,26,ORD733
+77848,14-07-2024,713,20,fashion,skirt,4,88.02,Cash on Delivery,Simmonsview,5,F,39,ORD734
+99026,18-08-2024,665,20,fashion,skirt,5,470.2,Credit Card,West Antonio,1,F,34,ORD735
+48813,14-03-2025,395,10,electronics,headphones,1,191.02,Credit Card,West James,5,F,75,ORD736
+88937,04-01-2025,504,30,home & living,vase,2,240.14,Bank Transfer,East Veronicaville,5,M,34,ORD737
+29312,12-08-2024,481,30,home & living,pillow,4,354.83,Cash on Delivery,South Antonioton,5,M,64,ORD738
+21298,17-01-2025,479,30,home & living,carpet,4,276.73,Credit Card,Wayneside,3,M,55,ORD739
+82746,18-11-2024,101,50,sports & outdoors,soccer ball,3,263.16,Bank Transfer,Brandonbury,5,M,35,ORD740
+45270,26-04-2024,685,40,books & stationery,notebook,1,410.45,Bank Transfer,Raytown,4,F,71,ORD741
+65819,16-06-2024,691,50,sports & outdoors,soccer ball,2,255.9,Credit Card,East Michaelborough,4,M,34,ORD742
+14029,20-02-2025,436,50,sports & outdoors,yoga mat,4,113.64,Credit Card,Lake Hayley,NULL,F,57,ORD743
+42097,08-05-2024,317,10,electronics,laptop,3,213.16,Bank Transfer,West Daniel,5,F,63,ORD744
+78056,21-09-2024,313,40,books & stationery,pen,2,113.24,Credit Card,South Mark,5,M,43,ORD745
+29123,12-09-2024,506,20,fashion,t-shirt,3,72.66,Cash on Delivery,East Daleton,NULL,F,39,ORD746
+11363,02-10-2024,816,10,electronics,smartwatch,3,81.96,Credit Card,Pattersonfort,2,M,63,ORD747
+47637,28-09-2024,197,40,books & stationery,eraser,2,484.93,Cash on Delivery,West Mary,NULL,F,42,ORD748
+72471,22-08-2024,557,30,home & living,pillow,3,116.13,Cash on Delivery,Mayland,5,F,69,ORD749
+55956,17-05-2024,110,20,fashion,pants,3,416.88,Cash on Delivery,Smithville,NULL,F,70,ORD750
+60036,27-11-2024,244,20,fashion,shirt,4,333.23,Bank Transfer,South Julieborough,NULL,F,57,ORD751
+65235,29-07-2024,554,40,books & stationery,eraser,1,299.39,Credit Card,Joshuafort,3,M,19,ORD752
+68904,16-12-2024,957,10,electronics,laptop,4,266.13,Cash on Delivery,Chenmouth,5,F,25,ORD753
+11101,27-09-2024,750,50,sports & outdoors,soccer ball,5,96.94,Cash on Delivery,South Katiefurt,4,F,22,ORD754
+91161,29-05-2024,556,50,sports & outdoors,tent,3,378.67,Credit Card,Port Christopher,4,M,25,ORD755
+31593,16-02-2025,343,50,sports & outdoors,tent,1,415.49,Cash on Delivery,Washingtonmouth,5,F,44,ORD756
+19180,17-08-2024,427,30,home & living,pillow,2,351.84,Bank Transfer,New Lauramouth,1,F,50,ORD757
+21588,25-03-2024,112,40,books & stationery,notebook,2,298.63,Cash on Delivery,South Veronica,5,F,33,ORD758
+92632,15-10-2024,712,50,sports & outdoors,soccer ball,3,218.49,Bank Transfer,North Jason,4,M,26,ORD759
+92429,20-09-2024,710,10,electronics,headphones,4,303.16,Cash on Delivery,Jonesville,4,M,50,ORD760
+99265,24-08-2024,532,10,electronics,smartwatch,5,266.04,Cash on Delivery,Garyville,NULL,F,43,ORD761
+12167,20-11-2024,500,30,home & living,vase,1,187.51,Credit Card,West Jeffreyview,4,F,46,ORD762
+22739,15-07-2024,196,30,home & living,carpet,5,217.55,Bank Transfer,South Matthewburgh,5,NULL,24,ORD763
+51408,14-02-2025,511,40,books & stationery,story book,2,212.48,Cash on Delivery,Kiddmouth,4,M,59,ORD764
+98186,25-08-2024,606,50,sports & outdoors,running shoes,1,134.35,Bank Transfer,Lake Brianbury,4,F,47,ORD765
+31253,11-12-2024,226,40,books & stationery,story book,3,428.95,Cash on Delivery,New Coleside,NULL,M,43,ORD766
+34709,28-10-2024,636,20,fashion,t-shirt,2,115.08,Bank Transfer,West Nicholas,5,F,19,ORD767
+96221,14-02-2025,136,50,sports & outdoors,soccer ball,1,88.76,Cash on Delivery,East Tanyafurt,NULL,M,31,ORD768
+98713,05-02-2025,260,20,fashion,skirt,1,463.67,Bank Transfer,Catherinebury,NULL,M,37,ORD769
+79880,01-06-2024,664,30,home & living,pillow,5,308.42,Cash on Delivery,Scottburgh,3,NULL,20,ORD770
+79018,08-09-2024,460,50,sports & outdoors,tent,2,150.37,Cash on Delivery,Port Samantha,NULL,F,54,ORD771
+88218,04-02-2025,299,20,fashion,skirt,3,225.1,Credit Card,Martinezshire,5,NULL,40,ORD772
+69327,28-08-2024,183,50,sports & outdoors,yoga mat,3,105.43,Cash on Delivery,Port Joseton,4,F,72,ORD773
+52134,11-04-2024,592,50,sports & outdoors,basketball,1,340.27,Bank Transfer,West Rogerberg,1,M,65,ORD774
+39427,13-06-2024,292,20,fashion,t-shirt,3,498.44,Bank Transfer,Connerstad,3,M,60,ORD775
+55371,02-04-2024,753,50,sports & outdoors,basketball,4,263.69,Cash on Delivery,South Anthonyfurt,5,NULL,73,ORD776
+96190,04-11-2024,415,50,sports & outdoors,yoga mat,5,365.81,Cash on Delivery,Patriciaville,5,M,18,ORD777
+55421,16-03-2025,315,30,home & living,blanket,2,307.12,Credit Card,New Shawn,4,M,26,ORD778
+36683,21-02-2025,125,10,electronics,headphones,2,95.77,Cash on Delivery,Ellisland,NULL,M,68,ORD779
+96700,27-03-2024,598,30,home & living,painting,4,474.04,Cash on Delivery,South Anthony,5,F,64,ORD780
+15505,25-10-2024,465,50,sports & outdoors,yoga mat,2,350.15,Bank Transfer,Jamiefort,4,F,19,ORD781
+46965,21-02-2025,329,30,home & living,vase,3,343.98,Cash on Delivery,West Bradleymouth,5,F,47,ORD782
+73481,24-08-2024,538,30,home & living,pillow,4,197.51,Credit Card,Bateshaven,5,M,22,ORD783
+32978,11-11-2024,667,30,home & living,vase,4,478.17,Cash on Delivery,South Elizabeth,4,F,25,ORD784
+60294,19-04-2024,486,30,home & living,blanket,4,150.77,Bank Transfer,Thomastown,5,F,26,ORD785
+27462,08-09-2024,864,10,electronics,smartwatch,5,466.38,Bank Transfer,Johnfort,3,M,67,ORD786
+58481,18-04-2024,128,50,sports & outdoors,yoga mat,4,99.56,Cash on Delivery,Taylorland,5,NULL,57,ORD787
+93038,06-01-2025,847,40,books & stationery,story book,5,125.08,Credit Card,North Michelletown,5,M,36,ORD788
+82649,26-11-2024,983,20,fashion,pants,1,419.8,Bank Transfer,Smithmouth,NULL,M,60,ORD789
+47335,25-08-2024,776,10,electronics,tablet,5,310.78,Cash on Delivery,East David,5,F,49,ORD790
+90319,25-06-2024,797,30,home & living,carpet,4,164.55,Cash on Delivery,South Jacquelineside,5,F,69,ORD791
+86183,21-02-2025,263,50,sports & outdoors,yoga mat,3,204.96,Cash on Delivery,Port Victoriashire,NULL,F,72,ORD792
+24175,19-03-2025,122,40,books & stationery,pen,5,470.43,Credit Card,Frazierbury,4,M,25,ORD793
+73858,21-05-2024,604,20,fashion,skirt,4,488.49,Cash on Delivery,South Robert,4,M,42,ORD794
+52435,11-11-2024,529,10,electronics,smartphone,5,340.31,Bank Transfer,West Kendrafort,4,M,18,ORD795
+11455,14-04-2024,374,50,sports & outdoors,yoga mat,2,101.7,Bank Transfer,Wrightfort,1,F,48,ORD796
+93036,28-01-2025,964,50,sports & outdoors,yoga mat,4,189.3,Bank Transfer,Smithburgh,4,M,30,ORD797
+76569,12-01-2025,447,30,home & living,painting,1,428.62,Bank Transfer,New Christopherside,4,F,56,ORD798
+13356,27-12-2024,232,50,sports & outdoors,basketball,5,408.95,Cash on Delivery,East Joseph,2,M,38,ORD799
+95980,06-12-2024,804,40,books & stationery,pen,1,106.07,Cash on Delivery,Haileyville,NULL,F,75,ORD800
+13042,15-05-2024,464,20,fashion,skirt,5,254.8,Cash on Delivery,Martinside,4,F,54,ORD801
+64649,07-12-2024,438,40,books & stationery,notebook,5,132.98,Cash on Delivery,Alexanderberg,NULL,M,45,ORD802
+79954,25-07-2024,295,20,fashion,t-shirt,5,115.58,Bank Transfer,West Carlosberg,4,F,31,ORD803
+73957,28-07-2024,834,40,books & stationery,notebook,5,137.29,Bank Transfer,Shawmouth,4,NULL,24,ORD804
+96551,21-10-2024,526,30,home & living,painting,2,19.72,Credit Card,Elliottmouth,3,F,25,ORD805
+85518,11-03-2025,519,50,sports & outdoors,basketball,1,292.66,Cash on Delivery,East Martin,5,M,75,ORD806
+82689,23-09-2024,254,30,home & living,painting,1,169.29,Cash on Delivery,South Christine,4,F,23,ORD807
+87052,13-06-2024,815,10,electronics,tablet,3,310.7,Bank Transfer,Webbburgh,5,M,67,ORD808
+35514,12-08-2024,791,20,fashion,dress,4,216.69,Cash on Delivery,Port Matthewfort,4,F,35,ORD809
+78620,11-07-2024,909,10,electronics,smartphone,1,89.38,Credit Card,Tiffanyport,3,F,47,ORD810
+96418,18-09-2024,939,30,home & living,carpet,2,325.88,Bank Transfer,New David,5,F,64,ORD811
+80018,06-11-2024,257,30,home & living,carpet,4,265.26,Bank Transfer,Susanchester,4,M,65,ORD812
+25370,09-09-2024,576,10,electronics,laptop,1,366.61,Cash on Delivery,Port Markport,2,F,57,ORD813
+30282,19-02-2025,411,10,electronics,laptop,3,91.79,Credit Card,Webbton,NULL,NULL,68,ORD814
+11578,22-05-2024,787,40,books & stationery,eraser,2,36.37,Bank Transfer,Brayfurt,4,NULL,35,ORD815
+97390,24-07-2024,512,10,electronics,headphones,3,312.87,Credit Card,Davidborough,5,F,71,ORD816
+22729,31-03-2024,649,30,home & living,blanket,2,131.22,Bank Transfer,West Reginaldbury,4,M,32,ORD817
+32747,30-06-2024,322,50,sports & outdoors,basketball,1,24,Cash on Delivery,Port Kimberlymouth,3,NULL,71,ORD818
+93277,20-06-2024,428,40,books & stationery,pen,1,487.74,Cash on Delivery,Lake Jillton,5,F,70,ORD819
+31245,25-07-2024,209,20,fashion,shirt,1,96.75,Cash on Delivery,New Raymond,4,F,39,ORD820
+50842,14-10-2024,300,50,sports & outdoors,running shoes,3,266.5,Cash on Delivery,South Stephenport,4,NULL,58,ORD821
+42780,26-11-2024,482,40,books & stationery,eraser,4,121.29,Credit Card,Port Craigfort,4,M,32,ORD822
+43949,28-01-2025,346,30,home & living,blanket,3,158.75,Credit Card,Graystad,4,F,27,ORD823
+50142,18-10-2024,347,20,fashion,dress,2,150.51,Cash on Delivery,Port Kellyport,NULL,NULL,18,ORD824
+97111,07-09-2024,897,40,books & stationery,notebook,4,14.47,Bank Transfer,East Brittany,5,F,33,ORD825
+88321,22-09-2024,738,10,electronics,smartwatch,5,193.09,Bank Transfer,West Jerry,5,M,48,ORD826
+95344,12-10-2024,551,20,fashion,pants,3,360.32,Cash on Delivery,Wrightmouth,3,M,61,ORD827
+88797,26-10-2024,244,30,home & living,pillow,3,216.9,Credit Card,Robertmouth,4,F,43,ORD828
+88975,14-11-2024,577,50,sports & outdoors,yoga mat,3,149.49,Cash on Delivery,New Norma,4,M,59,ORD829
+52849,20-03-2024,829,20,fashion,t-shirt,3,99.38,Bank Transfer,Katherineview,NULL,F,19,ORD830
+25985,07-02-2025,480,40,books & stationery,notebook,2,353.23,Bank Transfer,Port Debbieborough,NULL,M,65,ORD831
+74178,13-12-2024,179,10,electronics,smartwatch,1,20.84,Credit Card,Jonathanstad,2,M,52,ORD832
+16797,27-07-2024,333,40,books & stationery,novel,1,124.08,Credit Card,North Nancyville,NULL,M,59,ORD833
+61595,01-11-2024,586,40,books & stationery,notebook,2,395.01,Bank Transfer,West Masonton,5,F,32,ORD834
+57134,29-08-2024,101,10,electronics,headphones,4,49.31,Credit Card,Barronborough,NULL,F,42,ORD835
+54710,11-04-2024,343,10,electronics,smartwatch,5,240.37,Credit Card,Huntberg,5,M,27,ORD836
+45307,14-01-2025,162,40,books & stationery,novel,1,69.76,Cash on Delivery,West Anne,1,F,68,ORD837
+98156,20-03-2024,759,40,books & stationery,story book,3,371.43,Credit Card,Vasquezmouth,NULL,F,48,ORD838
+85771,18-12-2024,299,10,electronics,smartwatch,2,336.34,Credit Card,Brownport,4,F,56,ORD839
+69632,13-11-2024,451,30,home & living,painting,3,87.72,Cash on Delivery,Port James,NULL,NULL,36,ORD840
+39305,25-07-2024,846,50,sports & outdoors,soccer ball,4,134.12,Cash on Delivery,Cindyberg,2,M,32,ORD841
+42739,29-09-2024,149,10,electronics,laptop,5,486.9,Credit Card,Jenniferville,5,M,43,ORD842
+19510,21-10-2024,648,20,fashion,dress,4,296.5,Bank Transfer,Jaychester,5,M,25,ORD843
+79723,16-07-2024,568,10,electronics,smartwatch,1,393.9,Bank Transfer,Popeview,5,M,44,ORD844
+58363,02-09-2024,536,10,electronics,laptop,5,87.27,Credit Card,New Louis,5,M,63,ORD845
+54476,14-01-2025,678,10,electronics,smartphone,2,184.2,Credit Card,Tiffanyshire,5,F,21,ORD846
+81507,13-01-2025,611,20,fashion,skirt,1,124.01,Cash on Delivery,New Josephland,5,F,58,ORD847
+14376,15-02-2025,840,40,books & stationery,story book,5,20.46,Bank Transfer,Ericside,3,M,34,ORD848
+98227,25-05-2024,960,10,electronics,tablet,4,356.25,Cash on Delivery,North Stevenborough,2,F,75,ORD849
+32637,15-07-2024,175,20,fashion,shirt,3,101.45,Bank Transfer,West Richard,3,F,33,ORD850
+32787,05-12-2024,359,50,sports & outdoors,tent,5,88.57,Cash on Delivery,Lindsaybury,NULL,M,28,ORD851
+64016,29-10-2024,970,30,home & living,carpet,1,189.89,Credit Card,Rodgershaven,5,F,61,ORD852
+38808,21-04-2024,928,20,fashion,t-shirt,2,313.67,Bank Transfer,South Coltonport,5,M,73,ORD853
+48725,02-06-2024,471,10,electronics,smartwatch,2,411.33,Credit Card,West Amanda,4,F,64,ORD854
+79047,16-09-2024,517,50,sports & outdoors,basketball,3,310.39,Bank Transfer,Rhodesfurt,4,M,62,ORD855
+84001,17-09-2024,970,10,electronics,smartwatch,5,332.86,Credit Card,East Robynmouth,5,M,67,ORD856
+24025,16-10-2024,761,10,electronics,laptop,5,62.46,Credit Card,Brooksmouth,NULL,F,54,ORD857
+72324,19-04-2024,735,40,books & stationery,pen,1,267.65,Cash on Delivery,Crosbyfort,4,M,64,ORD858
+93644,31-01-2025,734,20,fashion,shirt,2,361.74,Credit Card,West Denisemouth,5,M,33,ORD859
+35717,10-03-2025,374,40,books & stationery,novel,1,239.35,Cash on Delivery,Danielmouth,NULL,F,34,ORD860
+79189,30-08-2024,639,40,books & stationery,notebook,1,399.18,Credit Card,Davidton,5,M,66,ORD861
+97433,26-07-2024,677,10,electronics,smartphone,4,418.88,Credit Card,North Lisafort,5,NULL,59,ORD862
+46834,24-06-2024,506,10,electronics,smartphone,5,365.33,Cash on Delivery,Charlesview,3,M,24,ORD863
+91867,20-05-2024,893,20,fashion,shirt,1,316.41,Credit Card,North Stevenshire,4,F,45,ORD864
+15872,14-03-2025,733,10,electronics,smartwatch,2,185.4,Bank Transfer,Reidchester,5,M,39,ORD865
+41333,04-05-2024,459,10,electronics,laptop,3,398.31,Cash on Delivery,Reidville,4,M,43,ORD866
+82894,15-12-2024,585,20,fashion,shirt,1,499.23,Bank Transfer,Johnstad,5,NULL,58,ORD867
+73282,23-07-2024,883,50,sports & outdoors,yoga mat,1,423.98,Bank Transfer,Lake Alexandriachester,5,M,24,ORD868
+37729,31-12-2024,180,30,home & living,carpet,2,127.95,Cash on Delivery,East Erikton,1,F,48,ORD869
+48803,27-09-2024,285,30,home & living,painting,1,481.21,Bank Transfer,New Kristen,5,M,31,ORD870
+36855,22-09-2024,132,10,electronics,headphones,2,301.92,Cash on Delivery,Port Jo,NULL,F,43,ORD871
+40540,25-10-2024,509,10,electronics,headphones,3,492.35,Credit Card,North Jimmyborough,5,M,72,ORD872
+17074,02-06-2024,224,30,home & living,carpet,1,260.52,Cash on Delivery,Benjaminburgh,5,M,37,ORD873
+62821,15-01-2025,146,10,electronics,tablet,5,184.27,Credit Card,Larsonburgh,2,F,36,ORD874
+65571,20-03-2024,646,20,fashion,pants,1,135.56,Bank Transfer,Michaelside,NULL,M,20,ORD875
+19925,29-01-2025,747,20,fashion,t-shirt,3,364.55,Bank Transfer,North Danielmouth,NULL,F,51,ORD876
+56744,17-08-2024,798,50,sports & outdoors,soccer ball,5,301.66,Bank Transfer,Lake Lindafort,NULL,F,27,ORD877
+99850,27-02-2025,453,40,books & stationery,novel,3,392.26,Bank Transfer,Bakerside,3,F,50,ORD878
+91017,29-01-2025,408,40,books & stationery,novel,2,436.2,Credit Card,Millermouth,5,F,26,ORD879
+55304,16-11-2024,417,10,electronics,tablet,1,36.52,Cash on Delivery,North Janet,NULL,F,34,ORD880
+41567,25-01-2025,292,20,fashion,dress,4,256.18,Credit Card,New Jenniferberg,NULL,F,32,ORD881
+28844,30-04-2024,580,40,books & stationery,pen,2,378.89,Cash on Delivery,Jasonfort,4,M,51,ORD882
+89576,21-09-2024,774,30,home & living,vase,3,82.53,Bank Transfer,Lake Jeanneview,NULL,F,26,ORD883
+95795,28-06-2024,955,10,electronics,smartwatch,4,205.6,Credit Card,South Omarport,3,M,22,ORD884
+27117,27-11-2024,312,20,fashion,pants,4,245.65,Credit Card,West Jonathanmouth,4,F,66,ORD885
+39659,26-02-2025,881,20,fashion,shirt,2,311.84,Cash on Delivery,New Kurtmouth,4,M,75,ORD886
+63665,14-11-2024,747,30,home & living,vase,1,168.47,Cash on Delivery,Stephenmouth,NULL,F,41,ORD887
+19863,14-05-2024,315,40,books & stationery,notebook,2,180.67,Bank Transfer,South Thomasmouth,3,F,24,ORD888
+98418,28-05-2024,471,30,home & living,blanket,2,493.95,Cash on Delivery,East Hannahhaven,5,F,63,ORD889
+50575,24-09-2024,107,50,sports & outdoors,basketball,4,225.83,Credit Card,Lake Sharonmouth,NULL,M,29,ORD890
+81790,15-04-2024,854,10,electronics,smartphone,5,372.39,Credit Card,North Jonathanborough,5,NULL,74,ORD891
+78752,07-04-2024,158,30,home & living,pillow,5,178.2,Credit Card,Lake Tinahaven,3,F,49,ORD892
+14520,22-12-2024,222,30,home & living,blanket,3,372.61,Credit Card,Brookshaven,1,F,69,ORD893
+51391,15-02-2025,418,30,home & living,carpet,5,246.68,Cash on Delivery,Port Derek,5,F,31,ORD894
+95940,24-06-2024,672,10,electronics,tablet,3,295.67,Cash on Delivery,Coxfurt,4,M,29,ORD895
+19238,11-01-2025,517,10,electronics,headphones,2,108.34,Cash on Delivery,Donaldside,5,M,70,ORD896
+24744,08-07-2024,818,10,electronics,smartphone,5,200.44,Bank Transfer,South Kristi,5,NULL,34,ORD897
+35625,24-11-2024,863,30,home & living,pillow,2,19.35,Cash on Delivery,Lake Johnland,3,NULL,22,ORD898
+45508,15-10-2024,300,50,sports & outdoors,soccer ball,3,452.9,Bank Transfer,Tonyamouth,5,F,53,ORD899
+49017,07-05-2024,128,20,fashion,pants,1,255.32,Bank Transfer,Shawnburgh,4,F,70,ORD900
+52278,25-07-2024,749,10,electronics,laptop,3,461.91,Bank Transfer,East Sarah,3,M,21,ORD901
+14109,17-07-2024,149,20,fashion,t-shirt,5,179.92,Bank Transfer,Romerostad,3,M,48,ORD902
+98997,22-10-2024,703,50,sports & outdoors,yoga mat,3,407.83,Cash on Delivery,Port Joseph,2,M,59,ORD903
+40188,24-02-2025,533,10,electronics,smartwatch,1,475.07,Credit Card,Gilmoreberg,NULL,F,75,ORD904
+11645,23-12-2024,642,20,fashion,t-shirt,5,367.65,Cash on Delivery,Kelseyton,5,F,65,ORD905
+65284,14-01-2025,290,20,fashion,skirt,3,127.78,Credit Card,Smithstad,4,M,75,ORD906
+45059,15-01-2025,856,50,sports & outdoors,yoga mat,1,230.09,Credit Card,Lake Lorichester,1,M,49,ORD907
+60063,19-12-2024,173,50,sports & outdoors,basketball,1,432.67,Bank Transfer,Jacobsside,5,F,68,ORD908
+27736,08-11-2024,106,20,fashion,skirt,1,497.89,Credit Card,South Jonathan,5,F,58,ORD909
+26583,10-04-2024,217,20,fashion,dress,4,43.23,Cash on Delivery,Lake Nicholas,5,M,60,ORD910
+27730,19-03-2025,385,30,home & living,blanket,1,366.27,Bank Transfer,Tiffanystad,5,M,44,ORD911
+72159,12-05-2024,329,40,books & stationery,notebook,3,227.07,Cash on Delivery,Snyderborough,5,M,64,ORD912
+72238,28-03-2024,435,20,fashion,t-shirt,2,74.46,Credit Card,Kevinland,5,F,74,ORD913
+38114,09-05-2024,817,30,home & living,carpet,2,287.85,Credit Card,South Brianna,4,M,20,ORD914
+19405,29-06-2024,433,10,electronics,headphones,4,48.94,Bank Transfer,Curtisshire,NULL,F,23,ORD915
+93547,29-06-2024,663,40,books & stationery,notebook,3,100.15,Bank Transfer,South Christopherburgh,4,M,65,ORD916
+49262,14-07-2024,910,20,fashion,pants,3,25.79,Credit Card,South Luishaven,5,NULL,22,ORD917
+97874,30-05-2024,967,20,fashion,pants,5,381.31,Credit Card,Lake Matthew,NULL,NULL,71,ORD918
+76505,11-12-2024,295,40,books & stationery,eraser,5,250.07,Bank Transfer,Armstrongberg,5,F,19,ORD919
+41014,11-07-2024,569,40,books & stationery,pen,1,390.35,Cash on Delivery,West Deanna,5,M,34,ORD920
+94899,19-03-2024,853,30,home & living,vase,5,309.64,Cash on Delivery,East Maryland,4,F,47,ORD921
+21391,11-01-2025,143,10,electronics,smartwatch,1,63.56,Bank Transfer,Port Dana,5,M,28,ORD922
+99233,08-09-2024,842,20,fashion,shirt,1,273.56,Cash on Delivery,West Teresa,NULL,M,43,ORD923
+35246,11-10-2024,209,10,electronics,laptop,3,152.68,Bank Transfer,West Lisa,5,F,46,ORD924
+65789,12-08-2024,368,30,home & living,vase,3,91.58,Bank Transfer,Pughton,5,M,69,ORD925
+68218,11-06-2024,680,50,sports & outdoors,basketball,4,237.15,Cash on Delivery,Markton,4,F,39,ORD926
+87200,11-02-2025,937,10,electronics,laptop,1,391.58,Cash on Delivery,Jefferyborough,4,M,68,ORD927
+87478,19-04-2024,788,30,home & living,vase,1,22.21,Bank Transfer,Williamton,4,F,50,ORD928
+35014,28-07-2024,149,20,fashion,skirt,1,54.19,Bank Transfer,Jamesland,5,NULL,33,ORD929
+73507,25-12-2024,133,20,fashion,t-shirt,4,54.68,Cash on Delivery,Beckerview,4,M,74,ORD930
+33203,31-05-2024,236,50,sports & outdoors,running shoes,5,366.17,Cash on Delivery,Pettymouth,5,M,62,ORD931
+10792,21-04-2024,898,50,sports & outdoors,running shoes,2,31.51,Credit Card,East Lisaview,5,F,49,ORD932
+69895,27-04-2024,848,20,fashion,pants,3,435.72,Credit Card,South Carolynchester,5,M,50,ORD933
+19845,26-10-2024,798,30,home & living,painting,2,367.78,Bank Transfer,New Michaeltown,2,M,45,ORD934
+57116,06-10-2024,319,20,fashion,pants,5,11.73,Bank Transfer,Catherinestad,NULL,F,60,ORD935
+90219,15-07-2024,430,40,books & stationery,eraser,1,405.65,Cash on Delivery,West April,5,M,58,ORD936
+99259,04-09-2024,426,50,sports & outdoors,running shoes,3,232.33,Bank Transfer,Johntown,NULL,F,62,ORD937
+47814,17-07-2024,557,20,fashion,shirt,1,146.28,Cash on Delivery,East Johnton,4,F,39,ORD938
+55438,09-06-2024,716,10,electronics,laptop,3,82.65,Cash on Delivery,Port Jenniferchester,3,M,51,ORD939
+84328,06-02-2025,122,10,electronics,smartwatch,1,420.63,Bank Transfer,Lake Kelly,3,M,54,ORD940
+35155,19-11-2024,956,10,electronics,tablet,2,496.93,Credit Card,Blackchester,5,F,20,ORD941
+72701,22-03-2024,828,50,sports & outdoors,tent,5,395.78,Credit Card,Webbfort,5,F,56,ORD942
+43869,27-06-2024,306,30,home & living,pillow,2,55.63,Bank Transfer,Traciburgh,3,F,69,ORD943
+57419,15-12-2024,222,10,electronics,tablet,2,423.22,Credit Card,Alvaradobury,2,M,29,ORD944
+24147,23-08-2024,568,30,home & living,painting,1,268.26,Cash on Delivery,Davistown,1,M,29,ORD945
+21838,25-06-2024,582,10,electronics,smartphone,2,289.97,Cash on Delivery,Popeport,4,M,70,ORD946
+37330,27-03-2024,881,50,sports & outdoors,yoga mat,5,219.26,Bank Transfer,West Molly,2,F,49,ORD947
+69487,31-08-2024,729,50,sports & outdoors,yoga mat,4,464.28,Cash on Delivery,Port Michaelville,4,F,62,ORD948
+64496,18-06-2024,146,40,books & stationery,pen,1,405.91,Cash on Delivery,Bradleyview,1,M,61,ORD949
+11021,12-08-2024,114,20,fashion,t-shirt,5,67.92,Bank Transfer,North James,5,M,47,ORD950
+21063,23-01-2025,327,20,fashion,shirt,2,499.5,Bank Transfer,Dorseymouth,NULL,M,66,ORD951
+95274,15-05-2024,126,20,fashion,t-shirt,5,323.9,Cash on Delivery,Cassandramouth,2,F,45,ORD952
+11871,23-09-2024,479,30,home & living,painting,3,258.28,Bank Transfer,East Kevinchester,5,M,65,ORD953
+89789,19-04-2024,953,30,home & living,painting,4,204.06,Cash on Delivery,Huffmanshire,5,M,71,ORD954
+92942,17-01-2025,489,20,fashion,pants,3,171.95,Bank Transfer,Ashleyside,5,F,29,ORD955
+21664,10-06-2024,395,40,books & stationery,novel,3,326.37,Bank Transfer,Simpsonshire,NULL,F,39,ORD956
+94070,26-11-2024,822,50,sports & outdoors,yoga mat,2,236.61,Bank Transfer,West Tyler,5,M,67,ORD957
+97102,28-03-2024,663,50,sports & outdoors,yoga mat,4,286.82,Cash on Delivery,Port Justinbury,3,F,55,ORD958
+71609,22-01-2025,510,20,fashion,shirt,2,345.89,Bank Transfer,South Kristenbury,NULL,M,24,ORD959
+54318,29-06-2024,142,10,electronics,headphones,2,491.97,Cash on Delivery,East Blakeborough,4,M,18,ORD960
+99887,24-09-2024,237,50,sports & outdoors,running shoes,1,101.82,Credit Card,North Wendyberg,5,F,50,ORD961
+97829,09-10-2024,640,30,home & living,pillow,5,143.03,Credit Card,Lake Alison,4,M,38,ORD962
+46034,26-04-2024,995,40,books & stationery,notebook,5,115.91,Bank Transfer,Ronaldborough,NULL,M,54,ORD963
+76076,20-12-2024,184,10,electronics,laptop,4,457.54,Bank Transfer,Suttonfort,4,F,29,ORD964
+74233,13-10-2024,750,50,sports & outdoors,basketball,2,103.2,Bank Transfer,New Miranda,5,F,60,ORD965
+33094,12-08-2024,298,30,home & living,blanket,2,387.05,Credit Card,Lake Loristad,5,NULL,68,ORD966
+99414,17-08-2024,186,20,fashion,pants,4,365.04,Bank Transfer,Jaclynview,3,F,55,ORD967
+49993,23-03-2024,880,10,electronics,smartphone,1,162.38,Credit Card,Scottville,5,F,73,ORD968
+24639,30-05-2024,797,10,electronics,headphones,3,238.77,Credit Card,Garzaport,NULL,F,49,ORD969
+80803,24-03-2024,882,30,home & living,pillow,1,293,Bank Transfer,South William,5,M,26,ORD970
+56431,03-07-2024,600,20,fashion,pants,3,150.42,Cash on Delivery,Andreatown,3,M,42,ORD971
+77076,27-05-2024,973,10,electronics,headphones,3,83.17,Bank Transfer,Adamsbury,NULL,NULL,71,ORD972
+32363,19-04-2024,157,50,sports & outdoors,tent,1,60.16,Cash on Delivery,Greenborough,3,M,61,ORD973
+84308,26-06-2024,144,20,fashion,dress,5,291.3,Credit Card,Lewisfort,NULL,F,68,ORD974
+20853,10-07-2024,499,30,home & living,carpet,3,227.39,Credit Card,West Alexfort,NULL,NULL,39,ORD975
+61650,19-12-2024,804,10,electronics,smartphone,2,197.96,Credit Card,Bradleyville,4,M,29,ORD976
+51729,24-01-2025,713,50,sports & outdoors,tent,3,318.44,Cash on Delivery,Port Darrylstad,5,F,23,ORD977
+53843,12-11-2024,256,30,home & living,painting,5,410.55,Cash on Delivery,New Kimberly,5,F,38,ORD978
+78972,24-10-2024,112,10,electronics,tablet,4,288.22,Credit Card,Robinsonstad,5,NULL,60,ORD979
+89875,06-01-2025,759,40,books & stationery,novel,1,233.24,Cash on Delivery,East Jennifershire,5,F,30,ORD980
+44902,12-07-2024,801,40,books & stationery,story book,4,474.25,Credit Card,West Reginald,5,F,34,ORD981
+55905,02-03-2025,550,30,home & living,vase,1,99.84,Cash on Delivery,Port Darren,3,F,73,ORD982
+94304,26-01-2025,701,30,home & living,vase,5,248.88,Credit Card,Lewisfort,4,M,56,ORD983
+55131,08-11-2024,866,40,books & stationery,story book,2,148.31,Bank Transfer,South Douglasland,5,M,67,ORD984
+63100,18-12-2024,974,10,electronics,tablet,5,410.6,Credit Card,South Lisaland,3,F,58,ORD985
+27148,07-01-2025,635,30,home & living,carpet,1,235.88,Cash on Delivery,Kurtfurt,4,F,40,ORD986
+55134,04-12-2024,837,50,sports & outdoors,basketball,4,487.21,Bank Transfer,Marthabury,NULL,M,46,ORD987
+88309,11-06-2024,524,50,sports & outdoors,running shoes,1,394.31,Bank Transfer,Robertmouth,4,M,41,ORD988
+33859,26-01-2025,712,20,fashion,pants,4,334.68,Credit Card,Laurietown,5,F,25,ORD989
+75395,19-03-2025,175,40,books & stationery,novel,2,300.16,Bank Transfer,Jesseburgh,3,M,64,ORD990
+98363,30-01-2025,332,40,books & stationery,story book,2,160.94,Bank Transfer,Hallbury,NULL,M,27,ORD991
+43591,12-06-2024,302,50,sports & outdoors,running shoes,4,170.43,Cash on Delivery,Frankbury,5,M,37,ORD992
+11479,28-01-2025,331,20,fashion,shirt,2,452.6,Cash on Delivery,Jamesview,5,F,48,ORD993
+94141,01-09-2024,701,20,fashion,skirt,4,270.32,Bank Transfer,North Jeannemouth,5,M,48,ORD994
+54371,05-02-2025,325,20,fashion,dress,4,156.87,Cash on Delivery,East Jamesborough,3,NULL,37,ORD995
+67967,04-05-2024,965,40,books & stationery,notebook,3,495.24,Cash on Delivery,Hodgemouth,NULL,NULL,30,ORD996
+99828,12-09-2024,510,40,books & stationery,story book,5,427.73,Credit Card,Douglastown,3,F,72,ORD997
+92290,06-11-2024,445,10,electronics,smartphone,5,354.64,Bank Transfer,New Amberville,NULL,M,49,ORD998
+61427,17-09-2024,410,10,electronics,laptop,4,221.54,Cash on Delivery,New Sean,3,M,71,ORD999
+20658,06-11-2024,177,40,books & stationery,pen,3,196.97,Cash on Delivery,North Kelsey,1,M,34,ORD1000
