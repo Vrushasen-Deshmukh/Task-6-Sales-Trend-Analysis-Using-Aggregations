@@ -1,7 +1,8 @@
 # Task-6 of Internship by Elevate Labs
 # Sales Trend Analysis Using Aggregations
 
-This task focuses on analysing montly revenue and order volume using SQL. Aggregation and Grouping are the main used SQL queries.
+**This task focuses on analysing montly revenue and order volume using SQL. Aggregation and Grouping are the main used SQL queries.**
+
 # Tools used : Kaggle Website, MySQL
 # Keys steps included:
 1. Searching a dataset.(Ensuring it contains the necessary columns)
