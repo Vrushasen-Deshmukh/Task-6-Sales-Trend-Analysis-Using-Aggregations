@@ -18,8 +18,9 @@
 
 # Outcome Analysis
 The sales trend analysis provided clear insights into the monthly performance of the business based on the online_sales dataset. The following key findings were observed:
-- Monthly Revenue Trends
-- Order Volume Patterns
-- Top Performing Months
-- Low-Performance Periods
-- Year-over-Year Comparisons
+- Extracts the month from the **'order_date'** column
+- **Monthly Sales Summary** across all years
+- **Total Monthly Revenue** across all years
+- **Monthly Count of Unique Orders** across all years
+- **Monthly Summary of Revenue and Order Volume** across all years
+- **Monthly Revenue and Order Volume** for the year **2024**
